@@ -104,22 +104,36 @@ def find_keep_term_violations(translated: Path, glossary: list[Term]) -> list[Vi
     return violations
 
 
-_MARKER = re.compile(r"\[\?\]|\bTODO\b|\bTBD\b")
-_MARKER_KIND = {"[?]": "[?]", "TODO": "TODO", "TBD": "TBD"}
+_MARKER = re.compile(r"\[\?(?:\]|:[^\]]*\])|\bTODO\b|\bTBD\b")
+
+
+def _marker_kind(raw: str) -> str:
+    if raw.startswith("[?"):
+        return "[?]"
+    return raw
 
 
 def find_unresolved_markers(translated: Path) -> list[Marker]:
-    """Find lines containing [?], TODO, or TBD."""
+    """Find lines containing [?] or [?: ...] markers, plus TODO or TBD."""
     markers: list[Marker] = []
     for lineno, line in enumerate(translated.read_text(encoding="utf-8").splitlines(), start=1):
         for m in _MARKER.finditer(line):
-            raw = m.group(0)
-            kind = _MARKER_KIND.get(raw, raw)
-            markers.append(Marker(file=translated, line_number=lineno, kind=kind, line=line.rstrip()))
+            markers.append(Marker(
+                file=translated,
+                line_number=lineno,
+                kind=_marker_kind(m.group(0)),
+                line=line.rstrip(),
+            ))
     return markers
 
 
 def main(argv: list[str]) -> int:
+    if sys.stdout.encoding and sys.stdout.encoding.lower() != "utf-8":
+        try:
+            sys.stdout.reconfigure(encoding="utf-8")
+        except AttributeError:
+            pass
+
     p = argparse.ArgumentParser(description=__doc__)
     p.add_argument("glossary", type=Path)
     p.add_argument("translated_dir", type=Path)
