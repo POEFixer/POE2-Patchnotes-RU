@@ -1,0 +1,57 @@
+## Изменения Passive Tree
+
+- Добавлено 19 новых Passive Skills с тематикой Companion на Passive Tree.
+- Добавлено 9 новых Passive Skills на Life Recoup Speed на Passive Tree.
+- Добавлен новый кластер Archon of Undeath в зону Witch/Sorceress на Passive Tree.
+- Keystone Passive Skill Ancestral Bond теперь делает так, что размещение тотемов не требует стоимости и не требует расхода зарядов. Он по-прежнему заставляет тотемы резервировать по 75 spirit каждый, и теперь удваивает лимит тотемов вместо его полного снятия.
+- Keystone Passive Skill Trusted Kinship теперь даёт 30% more Reservation Efficiency of Companion Skills и 20% less Reservation Efficiency of non-Companion Skills. Он больше не даёт You have 30% less Defences и Companions have +1 to each Defence for every 2 of that Defence you have.
+- Keystone Passive Skill Vaal Pact теперь даёт 50% more amount of Life Leeched, 67% less Life Leech speed, Cannot Recover Life other than from Leech и Life Leech effects are not removed when Unreserved Life is Filled. Он больше не даёт Life Leech is Instant и Cannot use Life Flasks.
+- Кластер Reformed Barrier удалён.
+- Кластер Warding Fetish сменил расположение и больше не соединяется с Jewel Socket.
+- Кластер Stormcharged и Breaking Point больше не соединяется с Jewel socket.
+- Notable Passive Skill Adamant Recovery заменён на Fortified Aegis, который даёт 100% increased Armour, Evasion and Energy Shield from Equipped Shield.
+- Notable Passive Skill Arcane Mixtures теперь даёт 10% increased Cast Speed if you have used a Mana Flask recently вместо 25% increased Energy Shield Recharge Rate.
+- Notable Passive Skill Bastion of the Forest теперь даёт 10% faster start of Energy Shield Recharge (ранее 15%).
+- Notable Passive Skill Casting Cascade теперь даёт 6% increased Cast Speed for each different Spell you've Cast in the last eight seconds (ранее four).
+- Notable Passive Skill Chakra of Breathing теперь даёт 20% faster start of Energy Shield Recharge вместо 1% increased Energy Shield Recharge Rate per 4 Dexterity.
+- Notable Passive Skill Commanding Rage теперь даёт 2% increased Minion Attack Speed per 5 Rage (ранее 1% per Rage).
+- Notable Passive Skill Convalescence теперь даёт 20% faster start of Energy Shield Recharge (ранее 40%) и 10% reduced Energy Shield Recharge Rate (ранее 15%).
+- Notable Passive Skill Core of the Guardian теперь даёт 30% increased Block chance и 20% reduced maximum Energy Shield (ранее 100% increased Armour, Evasion and Energy Shield from Equipped Shield).
+- Notable Passive Skill Covering Ward теперь даёт Gain 25 Energy Shield when you block (ранее 20) и 12% increased Block Chance. Он больше не даёт 25% increased Energy Shield Recharge Rate.
+- Notable Passive Skill Craving Slaughter теперь даёт +15 maximum Rage if you've used a Skill that Requires Glory in the past 20 seconds (ранее +8 per Skill that Requires Glory used in the past 6 seconds, up to 5 times)
+- Notable Passive Skill Critical Overload теперь даёт 15% increased Critical Spell Damage Bonus (ранее 15% increased Spell Damage if you've dealt a Critical Hit Recently).
+- Notable Passive Skill Cunning Fox заменён на The Quick Fox, который даёт 20% increased Deflection Rating while moving. Малые пассивки на all Attribute перед Notable теперь дают 20% increased Evasion Rating while moving.
+- Notable Passive Skill Deadly Force теперь даёт 15% increased Critical Hit Chance (ранее 10%) и 15% increased Damage if you've dealt a Critical Hit in the past 8 seconds (ранее 25%).
+- Notable Passive Skill Dependable Ward теперь даёт +8% to Chaos Resistance и 12% faster start of Energy Shield Recharge (ранее 25%).
+- Notable Passive Skill Devoted Protector теперь даёт 10% faster start of Energy Shield Recharge (ранее 15%).
+- Notable Passive Skill Echoing Pulse теперь даёт Echoed Spells have 25% increased Area of Effect. Он больше не даёт Final Repeat of Spells has 30% increased Area of Effect, который не работал.
+- Notable Passive Skill Effervescent теперь даёт 4% increased Cast Speed for each different Spell you've Cast in the last eight seconds (ранее four).
+- Notable Passive Skill Energising Archon теперь даёт 30% increased Archon Duration вместо 40% increased Energy Shield Recharge Rate while affected by an Archon Buff.
+- Notable Passive Skill Energising Deflection теперь даёт 12% faster start of Energy Shield Recharge вместо 30% increased Energy Shield Recharge Rate.
+- Notable Passive Skill Essence Infusion теперь даёт 12% faster start of Energy Shield Recharge и +12 to Intelligence (ранее +10). Он больше не даёт 40% increased Energy Shield Recharge Rate.
+- Notable Passive Skill Fast Metabolism теперь даёт 40% increased Damage while Leeching Life (ранее Life Leech effects are not removed when Unreserved Life is Filled).
+- Notable Passive Skill Fortifying Blood теперь даёт 15% increased amount of Life Leeched (ранее 20%).
+- Notable Passive Skill Goring больше не даёт 40% increased Physical Damage, теперь он даёт 3% increased Maximum Life и 20% increased amount of Life Leeched (ранее 3% reduced Maximum Life и 30% increased amount of Life Leeched).
+- Notable Passive Skill Immortal Infamy теперь даёт 6% increased Life Recovery Rate вместо 10% increased Energy Shield Recharge Rate.
+- Notable Passive Skills Lifelong Friend и Nurturing Guardian поменялись позициями.
+- Notable Passive Skill Mystic Stance теперь даёт 12% faster start of Energy Shield Recharge (ранее 30%).
+- Notable Passive Skill Patient Barrier теперь даёт 50% increased Maximum Energy Shield (ранее 60%).
+- Notable Passive Skill Quick Response теперь даёт 10% faster start of Energy Shield Recharge (ранее 20%) и 20% faster start of Energy Shield Recharge when not on Full Life (ранее 30%).
+- Notable Passive Skill Rapid Recharge теперь даёт 12% faster start of Energy Shield Recharge и 12% increased Energy Shield Recharge Rate (оба ранее 25%).
+- Notable Passive Skill Refocus теперь даёт 20% increased Mana Regeneration Rate while stationary вместо 30% increased Energy Shield Recharge Rate.
+- Notable Passive Skill Shatter Palm теперь даёт 20% increased Critical Damage Bonus (ранее 10% chance to Daze).
+- Notable Passive Skill Shimmering теперь даёт 10% faster start of Energy Shield Recharge и 20% increased Evasion if you have been hit recently. Он больше не даёт 20% increased Energy Shield Recovery Rate if you haven't been Hit Recently.
+- Notable Passive Skill Staggering Palm теперь даёт 25% increased Physical Damage (ранее 20%) и теперь даёт 10% chance to Daze вместо 20% increased Critical Damage Bonus.
+- Notable Passive Skill Stormcharged теперь даёт Damage Penetrates 8% of Enemy Elemental Resistances и 5% increased Attack and Cast Speed with Elemental Skills. Он больше не даёт 15% increased Critical Hit Chance или 40% increased Elemental Damage if you've dealt a Critical Hit Recently.
+- Notable Passive Skill Tempered Mind теперь даёт 15% increased effect of Fully Broken Armour (ранее 20% increased Critical Damage Bonus).
+- Notable Passive Skill Voracious больше не даёт 20% of Life Leech is Instant, теперь он даёт 15% increased Attack Speed while Leeching.
+- Notable Passive Skill Wide Barrier теперь даёт 30% increased Block chance и 20% reduced Armour (ранее 25% reduced Defences).
+- Notable Passive Skill Wyvern's Breath обновлён и теперь даёт 40% increased Elemental Ailment Application if you have Shapeshifted to an Animal form Recently. Теперь это также применяется к Freeze Buildup, но в остальном идентичен.
+- Первые две малые пассивки на Spell Damage в стартовой зоне Passive Tree для Witch и Sorceress теперь дают 10% increased Spell Damage (ранее 8%).
+- Малые Passive Skills, дающие faster start of Energy Shield Recharge, теперь имеют значения 6% (ранее 15%).
+- Малые Passive Skills, дававшие Energy Shield Recharge Rate, удалены с Passive Skill Tree и заменены на faster start of Energy Shield Recharge с меньшим значением.
+- Малые Passive Skills, дающие 10% increased amount of Life Leeched, теперь имеют значения 8%.
+- Малые пассивки на Banner Area of Effect теперь дают 12% increased Banner Area of Effect (ранее 15%).
+- Малый Tactician пассив на Banner Area теперь даёт 16% increased Banner Area of Effect (ранее 20%).
+- Notable на Timeless Jewel Unsavored Feast больше не даёт 20% Instant Leech if you have at least 200 tribute. Теперь он даёт Leech Life 35% faster if you have at least 100 Tribute (ранее 25%).
+[Вернуться к началу](#top)
