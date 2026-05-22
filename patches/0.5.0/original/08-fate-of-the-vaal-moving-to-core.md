@@ -1,0 +1,34 @@
+## Fate of the Vaal Moving To Core
+
+- Fate of the Vaal has been added to the Core Game. You first encounter a series of 6 Ancient Beacons in Act 3, energise them to obtain Energised Crystals and open a portal to the Vaal Ruins. You'll encounter a second set of 6 Ancient Beacons in the Interludes.
+- There is now an Atlas Passive Tree for the Fate of the Vaal league mechanic.
+- Atziri's Temple can now be found on the atlas to the north east of your starting location in the city of Lira Vaal. Maps inside the city of Lira Vaal always have Energised Crystals and grant points for the Fate of the Vaal Atlas Passive Tree.
+- There are also new Temple Precursor Tablets that will guarantee Vaal Beacons in your map if you want to focus on this league.
+- It is no longer possible to prevent a room being deleted from the temple. Rooms that must be deleted, but have other connections, will be turned into simple Path rooms. This prevents the "snake" strategy.
+- The number of rooms in the temple when first starting has increased to allow getting to Atziri more quickly.
+- Rooms can now be upgraded to Tier 4 after unlocking this ability on the Temple Atlas Tree. This allows more specialisation into particular room types and encourages more interesting temple layouts.
+- Reward Rooms granted from the console after defeating the Architect have been significantly improved, with more varieties to unlock in addition to upgrading the rewards of all the existing ones.
+- Restricted Rooms in Atziri's Temple that are accessible will always destabilise upon exiting the Temple.
+- Atziri's Temple Medallions now have their drop rate scaled with the number of paths in the Temple, in addition to other rooms (previously only other rooms).
+- Room-based Medallions can no longer be used inside of an active Temple.
+- Room-based Medallions now display upgrade information when hovered.
+- Medallions now output descriptive error messages when they cannot be placed.
+- The default maximum number of Energised Crystals you can store has been increased to 60, and the maximum number of Medallions has been increased to 6. The Medallions that increase the number of stored Energised Crystals or Medallions are no longer nessessary.
+- The monster level of the Temple now factors in the level of the areas where the crystals used to open it were obtained.
+- The Corruption Chamber Temple Bonuses have been updated to add Monster Modifiers Chance, instead of Additional Monster Modifiers.
+- Portals created in the Temple of Atziri now create a corresponding portal in the parent Vaal Ruins for ease of access.
+- Vaal Beacons now show a greyed-out icon on the Minimap when completed.
+- There are now 4 types of Infusers, existing Vaal Infusers are now Vaal Armourer's Infusers, which can be applied to Armour.
+- Vaal Blacksmith's Infusers can be applied to Martial Weapons, while Vaal Arcanist's Infusers can be applied to Wands, Staves, and Sceptres.
+- Vaal Catalysing Infusers can be applied to Jewellery.
+- All Infusers can only be used on items at or above 20% Quality.
+- Fate of the Vaal Currency Items now have a maximum stack size of 5,000 when stored in the wildcard slots in the Currency Stash Tab.
+- Some of the possible outcomes from applying to Vaal Cultivation Orbs to Unique Items have been updated:
+- The Atziri's Rule Unique Staff can now roll 10-20% increased Life Cost Efficiency (previously 20-40%).
+- The Atziri's Splendour Unique Body Armour can now roll +66-100 to Maximum Energy Shield (previously +100-200).
+- The Covenant Unique Body Armour can now roll 10-25% increased Life Cost Efficiency (previously 25-50%).
+- The Hateforge Unique Gloves can now roll +16-30 maximum Rage if you've used a Skill that Requires Glory in the past 20 seconds (previously +8-12 maximum Rage per Skill that requires Glory used in the past 6 seconds, up to 5 times).
+- The Rathpith Globe Unique Focus can now roll 8-15% increased Life Cost Efficiency (previously 12-20%).
+- The Shackles of the Wretched Unique Gloves can no longer roll Elemental Ailments other than Freeze you inflict at Reflected to you, instead now being able to roll 10-15% increased Damage per Curse on you.
+- The Vertex Unique Helmet can no longer roll +2-4 to Level of All Skill Gems, instead now being able to roll +3-5 to Level of All Curse Skill Gems.
+[Return to top](#top)

@@ -1,0 +1,37 @@
+## The Runes of Aldur League
+
+- Start fresh in a new economy with the Runes of Aldur league.
+- In each area in the Runes of Aldur League you will find a Remnant which allows you to craft an item of your choosing by using Runic Recipes engraved into the slots on the Remnant.
+- Depending on the Runeshapes used, you will then face an encounter with tough enemies that you will need to defeat to claim your item
+- Each additional runeshape used to craft the item will increase the number of waves of enemies, adding additional runic modifiers to the enemies with each wave.
+- Remnants start with any number of slots between 2 and 10 with higher numbers being much rarer, but allowing you to craft much rarer items.
+- Monsters raised by Remnants can drop Verisium metal, a new currency.
+- Added new NPC Farrow with 4 new quests in the campaign allowing you to unlock various new crafting features.
+- New Crafting System: Verisium Runeforging
+- After unlocking Verisum Runeforging in Act 1 this system allows you to add Runic Ward to your armours by spending verisium. Armours lower than level 55 gain Runic Ward with no downside. Armours above this level trade some of their regular base defences for Runic Ward.
+- Added new defence: Runic Ward. This defence kicks in once you reach 1 life allowing you to continue to survive while your Runic Ward takes damage. Runic Ward regenerates independently of your life.
+- Added 13 new Alloy currency items, which can be unlocked through Remnant encounters after completing Farrow's quest in Act 2. These items add various new crafted modifiers to items by replacing an existing modifier, similar to Perfect Essences.
+- After unlocking Unique Verisium Runeforging in Act 3 you can upgrade the base type of unique armours that drop at levels lower than 55. These upgrades generally increase base defences allowing low level unique armours to become more competitive in the endgame. Unique Armours above level 55 can still be Runeforged to modify their defences to include runic ward at the cost of reducing their other defenses similar to the base types.
+- Unique Verisium Runeforging has additional properties when used on Kalguuran Uniques.
+- Added 13 Ancient Runes which can be unlocked to be crafted by Remnant encounters after completing Farrow's quest in Act 4. These runes have powerful bonuses specific to each weapon type.
+- Added 13 Mythical early game runes that can be crafted from Remnant encounters to provide significant boosts to level 15+ characters.
+- Added 3 Fluxes which can be crafted from Remnants to transform the resistances on your items from one element to another.
+- Added 15 Meta crafting runes that can be crafted from remnants.
+- Added 60+ runes that can be created by destroying a unique to make a rune that gains some of its properties.
+- Added 15+ Runic Ward Runes that can be crafted from Remnants, adding or modifying properties related to Runic Ward.
+- Added 21 Kalguuran Skills that can be crafted from Remnants: Animus Exchange, Animus Splinters, Bitter Dead, Conductive Runes, Detonate Living, Eternal March, Explosive Transmutation, Fragments of the Past, Frostflame Nova, Grim Pillars, Hollow Shell, Leylines, Powered by Verisium, Refutation, Remnants of Kalguur, Repulsion, Runic Reprieve, Skyfall, Triskelion Cascade, Verisium Manifestations, and Voltaic Barrier.
+- Added 8 Kalguuran Supports that can be crafted from remnants: Concussive Runes, Fist of Kalguur, Healing Runes, Kalguuran Conviction, Runeforged Blades, Runic Extraction, Runic Infusion and Scouring Flame.
+- Expedition Remnants have been changed into the Remnants from The Runes of Aldur league.
+- New Endgame Story: Set out on an expedition with Farrow to explore the Ocean as you investigate the tombs of fallen Kalguurans and challenge them to earn remarkable rewards. Seek out the crater of a fallen star, a meteor of pure Verisium, from which you hope to forge objects of immense power… if you can defeat what awaits you there.
+- There is now a hub area "The Ruins of Kingsmarch" for The Runes of Aldur to the south-east of your starting location on the Atlas.
+- The Logbook mechanic has been changed into an Ocean Exploring mechanic. Using logbooks now unveils a section of the ocean with a variety of islands to explore.
+- Many new underground areas have been added that can be uncovered during expeditions.
+- Many new islands have been added with new Grand Expeditions (previously known as logbooks).
+- Medved, Vorana and Uhtred join Olroth as the 4 Faction Leaders available to fight on new Islands that you can discover in the Ocean.
+- Defeating Olroth will give you a key that you can use to access the new Pinnacle Boss for The Runes of Aldur.
+- The new Runes of Aldur challenge league includes the first set of challenges in Path of Exile 2. Earn pieces of the Knight of Aldur Armour Set when you complete 2, 4, 6, and 8 challenges in Runes of Aldur. These challenge rewards are only obtainable in this league.
+- From the 1st challenge onwards and for every challenge after that, you will receive pieces of the Runes of Aldur Totem decoration to display in your hideout. The Totem Pole permanently showcases how many of the Runes of Aldur challenges you completed during the league.
+- All of your old characters from the Early Access launch are still present but a free passive tree refund has been granted due to the changes. We would highly encourage you to join the new leagues to fully take in the changes we've made with the 0.5.0 update.
+- With 0.5.0, there are Standard, Hardcore and Solo Self-Found variations of the Runes of Aldur challenge league available. They have the same core mechanics and items, and you can create private league versions of these leagues.
+- The Hardcore variations of Runes of Aldur are parented to their Standard Runes of Aldur equivalent, meaning if you die in Hardcore Runes of Aldur you can continue on in the Standard Runes of Aldur League.
+[Return to top](#top)

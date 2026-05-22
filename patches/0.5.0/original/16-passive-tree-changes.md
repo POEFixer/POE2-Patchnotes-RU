@@ -1,0 +1,57 @@
+## Passive Tree Changes
+
+- Added 19 new Companion-themed Passive Skills to the Passive Tree.
+- Added 9 new Life Recoup Speed Passive Skills to the Passive Tree.
+- Added a new Archon of Undeath cluster to the Witch/Sorceress area of the Passive Tree.
+- The Ancestral Bond Keystone Passive Skill now causes placing totems to have no cost and not require consuming charges to place. It still causes totems to reserve 75 spirit each, and now doubles totem limit instead of removing it completely.
+- The Trusted Kinship Keystone Passive Skill now grants 30% more Reservation Efficiency of Companion Skills, and 20% less Reservation Efficiency of non-Companion Skills. It no longer provides You have 30% less Defences, or Companions have +1 to each Defence for every 2 of that Defence you have.
+- The Vaal Pact Keystone Passive Skill now grants 50% more amount of Life Leeched, 67% less Life Leech speed, Cannot Recover Life other than from Leech, and Life Leech effects are not removed when Unreserved Life is Filled. It no longer provides Life Leech is Instant, or Cannot use Life Flasks.
+- The Reformed Barrier cluster has been removed.
+- The Warding Fetish cluster has moved locations, and no longer connects to a Jewel Socket.
+- The Stormcharged and Breaking Point cluster no longer connects to a Jewel socket.
+- The Adamant Recovery Notable Passive Skill has been replaced by Fortified Aegis, which grants 100% increased Armour, Evasion and Energy Shield from Equipped Shield.
+- The Arcane Mixtures Notable Passive Skill now grants 10% increased Cast Speed if you have used a Mana Flask recently, instead of 25% increased Energy Shield Recharge Rate.
+- The Bastion of the Forest Notable Passive Skill now grants 10% faster start of Energy Shield Recharge (previously 15%).
+- The Casting Cascade Notable Passive Skill now grants 6% increased Cast Speed for each different Spell you've Cast in the last eight seconds (previously four).
+- The Chakra of Breathing Notable Passive Skill now grants 20% faster start of Energy Shield Recharge instead of 1% increased Energy Shield Recharge Rate per 4 Dexterity.
+- The Commanding Rage Notable Passive Skill now grants 2% increased Minion Attack Speed per 5 Rage (previously 1% per Rage).
+- The Convalescence Notable Passive Skill now grants 20% faster start of Energy Shield Recharge (previously 40%), and 10% reduced Energy Shield Recharge Rate (previously 15%).
+- The Core of the Guardian Notable Passive Skill now grants 30% increased Block chance and 20% reduced maximum Energy Shield (previously 100% increased Armour, Evasion and Energy Shield from Equipped Shield).
+- The Covering Ward Notable Passive Skill now grants Gain 25 Energy Shield when you block (previously 20), and 12% increased Block Chance. It no longer grants 25% increased Energy Shield Recharge Rate.
+- The Craving Slaughter Notable Passive Skill now provides +15 maximum Rage if you've used a Skill that Requires Glory in the past 20 seconds (previously +8 per Skill that Requires Glory used in the past 6 seconds, up to 5 times)
+- The Critical Overload Notable Passive Skill now provides 15% increased Critical Spell Damage Bonus (previously 15% increased Spell Damage if you've dealt a Critical Hit Recently).
+- The Cunning Fox Notable Passive Skill has been replaced with The Quick Fox, which grants 20% increased Deflection Rating while moving. The small all Attribute Passives prior to the Notable now grant 20% increased Evasion Rating while moving.
+- The Deadly Force Notable Passive Skill now provides 15% increased Critical Hit Chance (previously 10%), and 15% increased Damage if you've dealt a Critical Hit in the past 8 seconds (previously 25%).
+- The Dependable Ward Notable Passive Skill now grants +8% to Chaos Resistance, and 12% faster start of Energy Shield Recharge (previously 25%).
+- The Devoted Protector Notable Passive Skill now grants 10% faster start of Energy Shield Recharge (previously 15%).
+- The Echoing Pulse Notable Passive Skill now grants Echoed Spells have 25% increased Area of Effect. It no longer grants Final Repeat of Spells has 30% increased Area of Effect, which did not function.
+- The Effervescent Notable Passive Skill now grants 4% increased Cast Speed for each different Spell you've Cast in the last eight seconds (previously four).
+- The Energising Archon Notable Passive Skill now grants 30% increased Archon Duration instead of 40% increased Energy Shield Recharge Rate while affected by an Archon Buff.
+- The Energising Deflection Notable Passive Skill now grants 12% faster start of Energy Shield Recharge, instead of 30% increased Energy Shield Recharge Rate.
+- The Essence Infusion Notable Passive Skill now grants 12% faster start of Energy Shield Recharge, and +12 to Intelligence (previously +10). It no longer grants 40% increased Energy Shield Recharge Rate.
+- The Fast Metabolism Notable Passive Skill now grants 40% increased Damage while Leeching Life (previously Life Leech effects are not removed when Unreserved Life is Filled).
+- The Fortifying Blood Notable Passive Skill now grants 15% increased amount of Life Leeched (previously 20%).
+- The Goring Notable Passive Skill no longer grants 40% increased Physical Damage, it now grants 3% increased Maximum Life and 20% increased amount of Life Leeched (previously 3% reduced Maximum Life and 30% increased amount of Life Leeched).
+- The Immortal Infamy Notable Passive Skill now grants 6% increased Life Recovery Rate instead of 10% increased Energy Shield Recharge Rate.
+- The Lifelong Friend and Nurturing Guardian Notable Passive Skills have swapped positions.
+- The Mystic Stance Notable Passive Skill now grants 12% faster start of Energy Shield Recharge (previously 30%).
+- The Patient Barrier Notable Passive Skill now grants 50% increased Maximum Energy Shield (previously 60%).
+- The Quick Response Notable Passive Skill now grants 10% faster start of Energy Shield Recharge (previously 20%), and 20% faster start of Energy Shield Recharge when not on Full Life (previously 30%).
+- The Rapid Recharge Notable Passive Skill now grants 12% faster start of Energy Shield Recharge and 12% increased Energy Shield Recharge Rate (both previously 25%).
+- The Refocus Notable Passive Skill now grants 20% increased Mana Regeneration Rate while stationary instead of 30% increased Energy Shield Recharge Rate.
+- The Shatter Palm Notable Passive Skill now provides 20% increased Critical Damage Bonus (previously 10% chance to Daze).
+- The Shimmering Notable Passive Skill now grants 10% faster start of Energy Shield Recharge, and 20% increased Evasion if you have been hit recently. It no longer grants 20% increased Energy Shield Recovery Rate if you haven't been Hit Recently.
+- The Staggering Palm Notable Passive Skill now provides 25% increased Physical Damage (previously 20%), and now provides 10% chance to Daze instead of 20% increased Critical Damage Bonus.
+- The Stormcharged Notable Passive Skill now provides Damage Penetrates 8% of Enemy Elemental Resistances and 5% increased Attack and Cast Speed with Elemental Skills. It no longer provides 15% increased Critical Hit Chance or 40% increased Elemental Damage if you've dealt a Critical Hit Recently.
+- The Tempered Mind Notable Passive Skill now provides 15% increased effect of Fully Broken Armour (previously 20% increased Critical Damage Bonus).
+- The Voracious Notable Passive Skill no longer grants 20% of Life Leech is Instant, it now grants 15% increased Attack Speed while Leeching.
+- The Wide Barrier Notable Passive Skill now grants 30% increased Block chance and 20% reduced Armour (previously 25% reduced Defences).
+- The Wyvern's Breath Notable Passive Skill has been updated and now provides 40% increased Elemental Ailment Application if you have Shapeshifted to an Animal form Recently. This now also applies to Freeze Buildup, but it is otherwise identical.
+- The first two small Spell Damage Passive Skills at the starting area of the Passive Tree for the Witch and Sorceress now provide 10% increased Spell Damage (previously 8%).
+- Small Passive Skills that grant faster start of Energy Shield Recharge now have values of 6% (previously 15%).
+- Small Passive Skills that granted Energy Shield Recharge Rate have been removed from the Passive Skill Tree and replaced by faster start of Energy Shield Recharge at a lower value.
+- Small Passive Skills granting 10% increased amount of Life Leeched now have values of 8%.
+- The small Banner Area of Effect Passive Skills now provide 12% increased Banner Area of Effect (previously 15%).
+- The small Banner Area Tactician Passive Skill now provides 16% increased Banner Area of Effect (previously 20%).
+- The Unsavored Feast Timeless Jewel Notable no longer grants 20% Instant Leech if you have at least 200 tribute. It now grants Leech Life 35% faster if you have at least 100 Tribute (previously 25%).
+[Return to top](#top)

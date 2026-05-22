@@ -1,0 +1,33 @@
+## Support Changes
+
+- Unleash, Expand, Salvo, and Freezing Salvo Supports all now use the same concept of Seals, instead of each having their own version. This means standardised rules for Seals that will be consistent for all cases, resulting in some behaviour changes. Supports granting Seals now consistently all have the Seal category.
+- Freezing Salvo and Salvo Support previously had an extra restriction that the relevant skill could not gain Seals while you were performing that skill. This is no longer the case, bringing them into consistency with the other Seal mechanics.
+- Salvo Support Previously gave a Seal every 2 seconds, up to a maximum of 3, and provided 2 projectiles per Seal. It now gains a Seal every 1 second, up to a maximum of 6, providing one projectile per Seal.
+- Advancing Storm: Can now support any Storm Skill under any conditions, rather than only spells you use yourself.
+- Arjun's Medal: Now grants 25% chance to load a bolt into all Crossbow skills on dealing a Killing Blow with Supported Skills (previously 100%).
+- Atziri's Impatience: Can no longer support Persistent Skills.
+- Bhatair's Vengeance: When you Freeze a target with Supported Skills, for each 2 Rage you have, you and Allies in your Presence gain 1% of Damage as Cold Damage for 15 seconds (previously for each 1 Rage you have, for 20 seconds).
+- Brink I: Can now be Cut as a level 1 Support Gem (previously level 2).
+- Culmination II: No longer has Combo count loss for Supported Skills occurs 50% slower. It now has Supported Skills lose Combo if you generate no Combo for 6 seconds (previously 4 seconds). Supported Skills Can now Gain up to 10 Combo (previously 20), and Supported Skills now Deal 4% more Damage Per Combo (previously 2%).
+- Corrupting Cry I, Corrupting Cry II: No longer causes the supported skill to inflict Corrupted Blood, but instead it triggers a skill which inflicts Corrupted Blood, scaled by the level of the gem it is socketed into.
+- Decaying Hex: No longer causes the supported Curse to inflict Decay, instead it triggers a skill which inflicts Decay, scaled by the level of the gem it is socketed into.
+- Dialla's Desire: Now grants +5% to Quality of Supported Skills (previously +10%).
+- Doedre's Undoing: No longer causes Cursed Ground created by Supported Skills to become Hazards. Now causes Cursed Ground created by Supported Skills to spawn Witchtoads on an interval which seek out enemies and explode, dealing Chaos damage.
+- Infernal Legion I: Now grants Minions from Supported Skills take 10% of their maximum Life as Fire Damage per second (previously 20%), and Minions from Supported Skills Ignite Enemies within a radius of 1.5 metres as though dealing Base Fire Damage equal to 10% of Minion's Maximum Life (previously 20%).
+- Infernal Legion II: Now grants Minions from Supported Skills take 10% of their maximum Life as Fire Damage per second (previously 20%), and Minions from Supported Skills Ignite Enemies within a radius of 2 metres as though dealing Base Fire Damage equal to 10% of Minion's Maximum Life (previously 20%). Now additionally grants Minions from Supported Skills have +20% to Fire Resistance.
+- Infernal Legion III: Can no longer be obtained.
+- Living Lightning: No longer replaces minions when summoning a new one while already at maximum number of minions.
+- Morgana's Tempest: Can now support any Storm Skill under any conditions, rather than only spells you use yourself.
+- Overabundance III: Now properly describes that it cannot support Persistent Skills.
+- Overextend: Can no longer be obtained, existing items are unaffected by this change.
+- Paquate's Pact: No longer causes the supported skill to inflict Corrupted Blood, but instead it triggers a skill which inflicts Corrupted Blood, scaled by the level of the gem it is socketed into. No longer has Lose 2% of maximum Life per Corrupted Blood inflicted by Supported Skills. Instead, it now has Supported Skills Cost 10% of maximum Life for each time they've been used Recently, up to a maximum of 30%.
+- Rage I, Rage II, and Rage III: Can now support Minion Skills.
+- Ratha's Assault: Now grants Supported Skills Load 4 Bolts When You Dodge (previously 5), and Supported Skills Load 3 Additional Bolts (previously 4). It now also grants Supported Skills have 10% Increased Attack Speed (previously 20%).
+- Refraction I: Now additionally causes supported Banner skills to grant Allies Deflection Rating equal to 15% of their Evasion Rating.
+- Refraction II: Now additionally causes supported Banner skills to grant Allies Deflection Rating equal to 20% of their Evasion Rating.
+- Shock Conduction II: Can no longer be obtained.
+- Static Shocks: Updated description to clarify that it Triggers from Shocking Hits.
+- Uhtred's Augury: Now grants +2 to level of Supported Skills if exactly two other supports are modifying them (previously +3) .
+- Uhtred's Omen: Now grants +2 to level of Supported Skills if exactly one other Support is modifying them (previously +3).
+- Volt: Now grants Supported Skills gain 2 Voltaic Charge per metre travelled (previously 3). Supported Skills now also Gain 1% of Damage as extra Lightning Damage per Voltaic Charge consumed (previously 5% per ten Voltaic Charge).
+[Return to top](#top)

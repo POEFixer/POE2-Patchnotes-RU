@@ -1,0 +1,34 @@
+## Other Endgame Changes
+
+- With the introduction of the new Endgame storyline, the Atlas has been reset. Your existing tablets and waystones will continue to work so you can continue your progression as normal, but in order to gain points for the Atlas Tree you will need to do the Origins of Divinity storyline.
+- Added support for searching to the Endgame Atlas Map.
+- You can now zoom out slightly further on the Atlas screen.
+- There are now two versions of each pinnacle boss, the Quest version and the Infinite Farm version. As such Primary, Secondary and Tertiary Calamity Fragments can no longer be obtained.
+- Tablets of the same type may now be used together to increase the amount of the league content that is spawned. The specifics of this are different for each content type. In some cases adding multiple tablets will increase the size of a single encounter, while in other cases it will increase the number of encounters spawned.
+- Each empty tablet slot now contributes to the amount of random non-tablet spawned league content in the area. This means that if all tablets slots are full, you will only see the league content from the tablets you are using. The intent of this change is to make sure that you do not need to complete the atlas trees for leagues you do not intend to run.
+- Waystones must now be identified in order to activate them in the Map Device.
+- You can now use Orbs of Chance on Tablets.
+- Some items and content now require you to specialise in them through Atlas Passive Skills including Exceptional Items, Fracturing Orbs, Basic and Overseer precursor tablets.
+- Tablets can no longer be used on maps that cannot have extra content (such as Unique Maps).
+- League-specific Tablets no longer drop from non-Map areas, such as Simulacrum, Abyssal Depths or the Twisted Domain.
+- Lowered the base chances for Essences, Azmeri Spirits, Shrines, Strongboxes, Summoning Circles and Rogue Exiles appearing in Maps somewhat due to the much larger increase now available on the Atlas Tree.
+- Atlas Passives that reference maps with Powerful Map Bosses now work with Overseer Precursor Tablets and other sources of Powerful Map Bosses.
+- Adjusted the values of general Precursor Tablet Modfiiers to be similar to the same type bonuses granted by Waystone Modifiers. Also reduced the roll variance of these Modifiers.
+- The following Modifiers can no longer roll on Waystones: Baron's, Beastly, Brambled, Doryani's, Enervating, Faridun's, Hallowed, of Nemeses, Perennial's, Rusted, and Sacrificial.
+- Whether a Map Modifier is a Suffix or a Prefix has been adjusted so that generally Prefixes are Modifiers that affect a monster output towards the player, and Suffixes are Modifiers that affect the player or monster defences.
+- The following Suffix Modifiers are now Prefixes: Of Destruction, of Fleeting, of Impact, of Penetration, of Puncturing, of Shattering, of Splitting, and of Venom.
+- The following Prefix Modifiers are now Suffixes: Buffering, Enduring, Enfeebling, Eroding, Evasive, Flaming, Hexwarded, Shocking, Sleet, and Slowing.
+- The of Overpowering Waystone Modifier no longer causes Monsters to have increased Freeze Buildup, Shock Chance, or inflict increased Flammability Magnitude. It now causes Monsters to have increased Elemental Ailment Application.
+- Waystone Modifier bonuses have been updated. They now provide more Monster Effectiveness, Pack Size, Item Rarity, Monster Rarity, or Waystone Drop Chance, depending on the modifier. These Modifiers are multiplicative with other sources, such as those found on the Atlas Passive Tree.
+- Modifiers to Pack Size now also provide a chance for an additional Rare Monster to appear in Rare Monster packs.
+- Monster Rarity is a new stat available that affects the chances of magic and rare monsters, and the chance for additional modifiers on Rare Monsters.
+- Map modifiers that included sources of increased number of Rare Monsters or increased number of magic Monsters have been updated to only display the number at the header of the map, and not also be displayed amongst the explicit modifiers. This is not a functional change.
+- Halved the bonus to Quantity of Item Dropped and Experience Gain provided by increased Monster Effectiveness (such as from Atziri's Temple).
+- The functionality of the Omen of Chaotic Rarity, Omen of Chaotic Quantity and Omen of Chaotic Monsters have been inverted. Instead of guaranteeing the new modifiers are of their type, they instead prevent the modifiers from being of their type.
+- Added the new Omen of Chaotic Effectiveness. While this item is active in your inventory your next Chaos Orb will replace all Modifiers on a Waystone with Modifiers that do not grant Monster Effectiveness.
+- Up to 3 of the above Omens may be used simultaneously.
+- Halved the Damage as Extra buffs granted from the following shrines: Freezing Shrine, Gloom Shrine, Meteoric Shrine, and Tempest Shrine.
+- Completion of fixed locations on the Atlas is now shared with party members.
+- With the addition of more varied content on the Atlas Map the size of content indicators has been increased 50%.
+- Waystones have received new 2D art.
+[Return to top](#top)

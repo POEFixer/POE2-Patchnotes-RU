@@ -1,0 +1,92 @@
+## Item Changes
+
+- Greater and Perfect currencies have been made somewhat rarer, with Transmutation and Augmentation being made significantly rarer.
+- Greater Orbs of Transmutation and Greater Orbs of Augmentation now have a minimum Modifier Level of 44 (previously 55), making them more accessible. They can now begin dropping in Act 4.
+- Divine Orbs are now more common.
+- The Corruption outcome that randomises the numeric values of the modifiers on an item beyond the normal range now multiplies each modifier based on the current value, instead of randomising the value.
+- Sanctifying an item now multiplies each modifier value based on the current value, instead of randomising values.
+- Omen of Corruption can no longer be obtained.
+- Martial Weapons and Flasks found in the campaign are now more likely to be of the highest base type available at that level.
+- The overall number of Essences found in the campaign has been increased, though the proportion of these being Essences of the Infinite has been significantly decreased. This will lead to finding more useful essences as you progress.
+- The amount of Armour granted by items and modifiers has been increased as you get to higher levels. At level 65, you should have approximately 33% more Armour, tapering down to 15% at level 80+.
+- The amount of Evasion granted by items and modifiers has been increased as you get to higher levels. At level 65, you should have approximately 33% more evasion, tapering down to 15% at level 80+.
+- The amount of Energy Shield granted by items is now roughly 8% more at level 65, and unchanged at level 80+.
+- The Vile Robe Armour Base Type now has 171 Base Energy Shield (previously 184).
+- The Base Armour of existing items will be automatically adjusted, while Armour Modifiers on existing items can be updated with a Divine Orb.
+- Increased the base Weapon Range of some Martial Weapon basetypes. One-hand Maces now have a base Weapon Range of 1.3 (previously 1.1), 1.5 for Two-hand Maces (previously 1.3), and 1.4 for Quarterstaves (previously 1.3).
+- The Obliterator Bow and Artillery Bow basetypes now have 1.1 Attacks per second (previously 1.15).
+- The implicit modifier for Warden and Guardian Bows now provides 25-35% chance to Chain an additional time (previously 20-30%). Existing items can be updated with a Divine Orb.
+- The implicit modifier for Rabid, Fury and Maji Talismans now provides +7-10 Maximum Rage (previously +8-12). Existing items can be updated with a Divine Orb.
+- The implicit modifier for Voltfang and Thunder Talismans now provides 20-30% increased Magnitude of Shock you inflict (previously 15-25%). Existing items can be updated with a Divine Orb.
+- Alternate Quality items (from Breach Catalysts) may now be salvaged to return a portion of the Catalysts used.
+- The plus to Level of all Melee Skills modifiers on Two Handed Attack Weapons now has a value of +5 at Tier 1 (previously +7), the lower tiers have also been adjusted.
+- The plus to Level of all Projectile Skills modifiers on Two Handed Attack Weapons now has a value of +5 at Tier 1 (previously +7), the lower tiers have also been adjusted.
+- The plus to Level of all Melee Skills modifiers on One-handed Attack Weapons now has a value of +4 at Tier 1 (previously +5), the lower tiers have also been adjusted.
+- The plus to Level of all Projectile Skills modifiers on One-handed Attack Weapons now has a value of +4 at Tier 1 (previously +5), the lower tiers have also been adjusted.
+- The +2 to level of Projectile Skills modifier on Quivers now has a value of +1.
+- The plus to level all Gems on Attack Weapons can now only roll above level 18.
+- Added Surpassing chance to fire an additional Arrow modifiers for Quivers.
+- The Perfect Essence of Battle now provides +3 to Level of all Attack Skills on Two Hand Melee Weapons or Crossbows (previously +5), and +2 to Level of all Attack Skills on One Handed Melee Weapons or Bows (previously +3).
+- Essence of Hysteria now grants 20-23% increased Energy Shield Recharge Rate when applied to Foci (previously 41-45%).
+- Body Runes now grant +30/45/60 Maximum Life when socketed in Armour items (previously +20/30/40), +30/40/50 Maximum Energy Shield when socketed in Staves and Wands (previously +25/30/35), and grants Leech 3/4/5% of Physical Damage as Life when socketed in Martial Weapons (previously 2/2.5/3%).
+- Mind Runes now grant +20/30/40 Maximum Mana when socketed in Armour items (previously +15/25/35), +45/60/75 Maximum Mana when socketed in Staves and Wands (previously +30/40/50), and grants Leech 2/3/4% of Physical Damage as Mana (previously 1.5/2/2.5%)
+- Rebirth Runes now grant Gain 15/25/35 Life per enemy killed when socketed in a Martial Weapon (previously 10/20/30), and now grants Regenerate 0.35/0.4/0.45% of Maximum Life per second when socketed in Armour items (previously 0.25/0.3/0.35%).
+- Inspiration Runes now grant Gain 10/20/30 Mana per enemy killed when socketed in a Martial Weapon (previously 8/16/24), and grants 20/25/30% increased Mana Regeneration Rate when socketed in Staves and Wands (previously 16/20/24%).
+- Stone Runes now Cause 20/30/40% increased Stun Buildup when socketed in a Martial Weapon (previously 20/25/30%), and grants +50/75/100 to Stun Threshold when socketed in Armour items (previously +40/60/80).
+- Vision Runes now grant +60/90/120 to Accuracy Rating when socketed in a Martial Weapon (previously +50/80/110), and 8/12/16% increased Life and Mana Flask Recovery when socketed in Armour items (previously 8/10/12%).
+- Desert Runes now grant +10/14/18% to Fire Resistance when socketed in Armour items (previously +10/12/14%). The Bonded modifier on Martial Weapons, Wands and Staves now grants 30% increased Ignite Magnitude (previously 25%).
+- Glacial Runes now grant +10/14/18% to Cold Resistance when socketed in Armour items (previously +10/12/14%).
+- Storm Runes now grant +10/14/18% to Lightning Resistance when socketed in Armour items (previously +10/12/14%)
+- Robust Runes now grant +6/9/12 to Strength when socketed in Equipment (previously +6/8/10).
+- Adept Runes now grant +6/9/12 to Dexterity when socketed in Equipment (previously +6/8/10).
+- Resolve Runes now grant +6/9/12 to Intelligence when socketed in Equipment (previously +6/8/10).
+- Standard Rune Bonded Modifiers now grant 20 Life and 20 Mana when socketed in Armour items (previously 10 Life and 10 Mana).
+- Lesser Rebirth Runes now grant 4% increased Energy Shield Recharge Rate when socketed in a Wand or Staff (previously 12%). This change applies to existing items.
+- Rebirth Runes now grant 6% increased Energy Shield Recharge Rate when socketed in a Wand or Staff (previously 15%). This change applies to existing items.
+- Greater Rebirth Runes now grant 8% increased Energy Shield Recharge Rate when socketed in a Wand or Staff (previously 18%). This change applies to existing items.
+- Craiceann's Rune of Recovery now grants 30% increased Energy Shield Recharge Rate when socketed in a Body Armour (previously 50%). Existing items are affected by this change.
+- Lady Hestra's Rune of Winter no longer grants Adds 19 to 28 Cold Damage, it instead grants Adds 19 to 28 Cold Damage against Chilled or Frozen Enemies.
+- Thane Leld's Rune of Spring no longer grants Adds 1 to 60 Lightning Damage, it instead grants Adds 1 to 60 Lightning Damage against Shocked Enemies.
+- Thane Myrk's Rune of Summer no longer grants Adds 23 to 34 Fire Damage, it instead grants Adds 23 to 34 Fire Damage against Ignited Enemies.
+- All Idols can now also be socketed into Sceptres.
+- Idol of Egrin now grants 20% increased Curse Duration when socketed into a Sceptre.
+- Idol of Eeshta now grants 15% increased Cost Efficiency when socketed into a Helmet (previously 12%). It now grants 30% increased Mana Recovery Rate while your Companion is in your Presence when socketed into a Sceptre.
+- Idol of Grold now is socketed into Boots. It now grants 50% increased total Power counted by Warcries (previously 20%). Now grants 15% increased Damage for each different Companion in your Presence when socketed into a Sceptre. The Bonded modifier now grants 30% increased glory generation (previously 20%).
+- Idol of Maxarius now grants 0.2 Flask Charges per second when socketed into a Sceptre.
+- Idol of Ralakesh now grants 40% increased Armour, Evasion and Energy Shield while your Companion is in your Presence when socketed into a Sceptre.
+- Idol of Sirrius now grants Allies in your Presence have 8% increased Movement Speed when socketed into a Sceptre. The Bonded modifier now grants 20% reduced slow potency (previously 15%).
+- Idol of Thruldana now grants Allies in your Presence deal 13 to 27 added Attack Chaos Damage when socketed into a Sceptre.
+- Bear Idol now grants 10% increased Area of Effect when socketed in Helmets (previously 8%). The Bonded Modifier now grants 12% increased Reservation Efficiency of Companion Skills when socketed in Helmets (previously 10%).
+- Boar Idol now grants Allies in your Presence Regenerate 0.5% of your Maximum Life per second when socketed in Sceptres (previously Allies in your Presence Regenerate 8 life per second). The Bonded Modifier now grants 25% increased Warcry Cooldown Recovery Rate when socketed in Gloves (previously 15%).
+- Cat Idol now grants 25% increased Accuracy Rating  when socketed in Gloves (previously 15%). The bonded Modifier now grants 30% increased Charm Charges gained when socketed in Gloves (previously 20%).
+- Fox Idol now has a limit of 1. It now grants Other Socketed Idols in this item also grant their Bonded Modifiers when socketed in Body Armours (previously +2% to Quality of all Skills). The Bonded Modifier now grants +5% to Quality of all Skills when socketed in Body Armours (previously +4 to all attributes).
+- Owl Idol now grants 12% increased Cooldown Recovery Rate when socketed in Foci (previously 10%), and Allies in your Presence have 10% increased Cast Speed when socketed in Sceptres (previously 8%). The Bonded Modifier now grants 20% increased effect of Archon Buffs on you when socketed in Foci (previously 15%).
+- Ox Idol now grants 15% increased Block chance when socketed in Shields and Bucklers (previously 10%), and Allies in your Presence have +12% to all Elemental Resistances when socketed in Sceptres (previously 8%). The Bonded Modifier now grants 15% chance for Damage of Enemies Hitting you to be unlucky when socketed in Shields and Bucklers (previously 10%).
+- Primate Idol now grants Minions have 15% increased maximum Life when socketed in a Helmet (previously 12%), and Allies in your Presence deal 40% increased Damage when socketed in a Sceptre (previously 30%). The Bonded modifier now grants Remnants can be collected from 15% further away when socketed in Helmets (previously 20%).
+- Rabbit Idol now has a limit of 1. It now grants 12% increased Rarity of Items found when socketed in Body Armours (previously 5%), and 15% increased Spirit when socketed in Sceptres (previously 10%). The Bonded modifier now grants 10% increased Quantity of Gold Dropped by Slain Enemies when socketed in Body Armours (previously 5%).
+- Snake Idol now grants 8% increased Curse Magnitude when socketed into Gloves (previously 5%), and Allies in your Presence have 10% increased Attack Speed when socketed in a Sceptre (previously 8%). The Bonded Modifier now grants Remnants have 15% increased Effect when socketed in Gloves (previously 10%).
+- Stag Idol now has a limit of 1. It now grants Projectiles have 15% chance to Fork when socketed in Helmets (previously 50% increased Thorns Critical Hit Chance). The Bonded Modifier for Helmets now grants 30% chance for an additional Projectile when Forking (previously Thorns Damage has 40% chance to ignore Enemy Armour).
+- Wolf Idol now grants 15% increased Magnitude of Bleeding you inflict when socketed in Gloves (previously 10%), and Allies in your Presence have 20% increased Critical Damage Bonus when socketed in Sceptres (previously 14%). The Bonded Modifier now grants 25% reduced Magnitude of Bleeding on you when socketed in Gloves (previously 15%).
+- Atmohua's Soul Core of Retreat no longer grants 30% faster start of Energy Shield Recharge when socketed in a Body Armour or Focus. Instead, it now grants Gain additional Ailment Threshold equal to 15% of maximum Energy Shield, and Gain additional Stun Threshold equal to 15% of maximum Energy Shield. This change applies to existing items.
+- Maximum Rage on Ruby Jewels can now roll between +1-2 to Maximum Rage (previously +1). Existing items can possibly be updated to the new values with a Divine Orb.
+- Increased Chaos Damage on Sapphire Jewels can now roll between 7-13% (previously 6-12%). Existing items can possibly be updated to the new values with a Divine Orb.
+- Suffix modifiers granting faster start of Energy Shield Recharge can no longer roll on Foci, Intelligence Body Armours, or Jewels.
+- Increased Energy Shield Recharge Rate Suffix modifiers can now roll on Intelligence Body Armours.
+- The Implicit modifier on the Arcane Raiment and Sacramental Robe Body Armours is now 15-25% increased Energy Shield Recharge Rate, instead of 40-50% faster start of Energy Shield Recharge. This change does not affect existing items.
+- The "Fevered" Prefix modifier can no longer roll on Time-Lost Sapphire and Sapphire Jewels.
+- The "of Diffusion", "of Dispersal", and "of Enlivening" Suffix modifiers can no longer roll on Body Armours and Foci.
+- The "of Buffering" Suffix modifier now grants 12-15% increased Energy Shield Recharge Rate (previously 36-40%). You can divine existing items to make them worse.
+- The "of Ardour" Suffix modifier now grants 16-19% increased Energy Shield Recharge Rate (previously 41-45%). You can divine existing items to make them worse.
+- The "of Suffusion" Suffix modifier now grants 20-23% increased Energy Shield Recharge Rate (previously 46-50%). You can divine existing items to make them worse.
+- Cast Speed Modifiers on Rings and Amulets are no longer shared with Foci and Wands. For Rings and Amulets these Modifiers now roll at slightly higher levels. The highest tier Cast speed modifier for Rings now rolls at level 60, and at level 66 for Amulets. The maximum values on these modifiers are unchanged.
+- Increased Banner Area of Effect Modifiers on Jewels now have values of 6-16% (previously 10-20%). Existing items can be updated to the new values with a Divine Orb.
+- Desecrated Modifiers granting Instant Leech can no longer roll, existing Items will not be affected by this change.
+- The "Squire's" Hybrid Physical Damage and Accuracy Modifier on Weapons now has a minimum level of 8 (previously 1). Existing items will have their level requirement changed.
+- The "Journeyman's" Hybrid Physical Damage and Accuracy Modifier on Weapons now has a minimum level of 14 (previously 11). Existing items will have their level requirement changed.
+- The "Precise" Accuracy modifier on Weapons now has a minimum level of 8 (previously 1). Existing items will have their level requirement changed.
+- The "Reliable" Accuracy modifier on Weapons now has a minimum level of 13 (previously 11). Existing items will have their level requirement changed.
+- The "Gladiatoral" Helm basetype has been renamed to Cassis Helm.
+- Oswald no longer undercuts you for the Priceless Idols found in Act 3, now offering you 3,000, 4,000, and 6,000 Gold for each (previously 500, 1,000, and 1,500).
+- The gold price of Weapons for asynchronous trade have been increased by approximately 50%
+- The Desecrated Map Modifier "of Union" is no longer functional. This was a legacy modifier that only existed in the Early Access leagues.
+[Return to top](#top)

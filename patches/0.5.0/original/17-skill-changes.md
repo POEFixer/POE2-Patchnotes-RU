@@ -1,0 +1,55 @@
+## Skill Changes
+
+- Skills with a fixed number of projectiles (such as Glacial Lance) can now benefit from effects that cause projectile count modifiers to apply to something else instead (such as Ricochet III Support).
+- Skills which have a cost of 0 Mana now display this cost. This allows players to distinguish between skills like default attacks which do not have a cost at all (and are thus unaffected by any + cost modifiers), from those which do have a base cost, but with 0 base value (which are affected by all +cost modifiers, even if they add different resource costs, like adding life cost to a skill with base mana cost 0).
+- Crossbow Ammunition Skills now have a base cost of 0 rather than having their cost completely disabled, meaning that effects that add additional costs will now apply to them.
+- Ignites inflicted on targets by Oil Ground that has been ignited can no longer compound, and cannot be compounded with by other ignites from the same skill use.
+- All Command Skills now have a 50% movement speed penalty during skill use (previously 70%).
+- Align Fate (granted by the Oracle's Fateful Vision Notable Passive): Now has "Modifiers to Cooldown Recovery Rate also apply to visage appearance frequency".
+- Ancestral Warrior Totem: No longer has a hidden 0.6 second delay between skill uses. Instead, this delay is now 50% of the skill's attack time and is described accordingly on the skill.
+- Bonestorm: No longer has the Sustained tag.
+- Boneshatter: Quality now grants 0-20% increased Attack Speed (previously 0-30% increased Attack Speed).
+- Comet: Now deals 212 to 318 Cold Damage at Gem level 11 (previously 223 to 335), scaling up to 787 to 1181 damage at Gem level 20 (previously 829 to 1243). Fire-Infused Comet now deals 212 to 318 Fire and Cold Damage at Gem level 11 (previously 279 to 418), scaling to 787 to 1181 Fire and Cold Damage at Gem level 20 (previously 1036 to 1554).
+- Cull the Weak: Now has Can't be Evaded. Now Deals 109-281% of Attack Damage at Gem Levels 3-20 (previously 60%-156%). Attack speed is now 75% of base (previously 60%), and it now has a Mana cost of 8-42 at Gem levels 3-20 (previously 9-46). The Maximum Dash range has been increased by 15%.
+- Defiance Banner, Dread Banner, and War Banner: No longer have a Movement Speed penalty during use. Now have a Banner Aura base radius of 6 metres (previously 4.5).
+- Earthquake: Aftershock now deals 184-666% of Attack damage at Gem levels 1-20 (previously 160-580%).
+- Eternal Rage: Can no longer be activated in specific weapon sets. It is now required to be active in both weapon sets, and will fail to activate if this is not possible.
+- Feral Invocation: No longer bypasses the cooldown of socketed skills.
+- Flame Breath: Now has an Energy Gain penalty similar to Incinerate.
+- Fortifying Cry: Now only consumes one stack when you detonate a shield wall to create a shockwave around each shield wall segment. Fortifying Cry Shockwaves from a single Shield Wall cannot hit the same enemy multiple times. Shield Wave now deals 5 to 7 Added Physical Damage per 15 Armour on Shield (previously 6 to 8).
+- Fragmentation Rounds: Quality now grants +0-2 Fragments per Shot (previously 0-20% more Physical Damage).
+- Freezing Salvo: Now has 34-68% more Magnitude of Chill inflicted and more Freeze Buildup at Gem levels 3-20 (previously 56-107%).
+- Gathering Storm: Now causes Perfectly Timed dash to explode any Tempest Bell on hit, creating a massive shockwave that deals 564-869% Attack Damage at Gem levels 13-20. Shocked Ground is left in the wake of the Tempest Shockwave (previously on Perfect Dash), with a radius of 3.2 metres, turning precise timing into a devastating area-clearing combo. Perfect Timing Shockwaves can now only hit enemies once per skill use, and no longer interact with objects created by non-Tempest Bell skills. Shockwave limit is now 50. Quality now grants 0-20% longer Perfect Timing window (previously +0-8 Maximum shockwaves per use).
+- Ghost Dance: The interval between gaining Ghost Shrouds is no longer a duration. It now has "Modifiers to Cooldown Recovery Rate also apply to Ghost Shroud gain frequency". It also now has "When Hit, lose a Ghost Shroud", and "Regenerate Energy Shield equal to 2% of your Evasion Rating per second if you have lost a Ghost Shroud Recently".
+- Grim Feast: Grim Resurrection now has a 1 second Cooldown.
+- Ice Shot: Ice Shards no longer have 25% more Freeze Buildup.
+- Ice Strike: Quality now grants 0-20% increased Attack Speed (previously 0-10% more Attack Speed).
+- Lightning Arrow: Multiple Lighting Beams are no longer be able to chain onto the same target.
+- Lunar Blessing: Triggered Moonbeams are no longer considered melee skills.
+- Magma Barrier: Now deals 5 to 7 Added Fire Damage per 15 Armour and Evasion on Shield (previously 6 to 8).
+- Mirage Archer and Mirage Deadeye: Can now be used with Channelled Skills, including Snipe, Plasma Blast, and Detonating Arrow.
+- Mirror of Refraction (granted by the Atziri's Rule unique staff): Now has "Modifiers to Cooldown Recovery Rate also apply to mirror appearance frequency".
+- Oil Barrage: Mana cost has been reduced by 18%. Empowered Oil Barrage now has a Mana cost per second equivalent to the initial Mana cost of Oil Barrage. Oil Barrage now deals 10% more damage at all levels, while Empowered Oil Barrage now deals 10% less damage at all levels. Empowered Oil Barrage now consumes a power charge every 1.5 seconds to continue channelling (previously every 2 seconds).
+- Parry: Area of Effect has been changed to more closely match it's animation. No longer has bonus Attack Distance.
+- Poisonburst Arrow: Poison duration is now 3 seconds at all Gem levels (previously 3-4.9 seconds at Gem levels 1-20). Quality now grants 0-10% more Magnitude of Poison inflicted (previously 0-20%).
+- Pounce: Now has a Cooldown of 6-5.1 seconds at gem levels 3-20 (previously 4.9-4 seconds at gem levels 3-20).
+- Ravenous Swarm: Now has "Modifiers to Cooldown Recovery Rate also apply to swarm spawning frequency".
+- Rend: Fixed a bug where Lightning-Charged Rend was scaling twice with levels, the Base Damage has been increased to compensate. Lightning-Charged Rend now deals 130-405% Attack Damage at levels 1-20 (previously 120-586%).
+- Resonating Shield: Now deals 5 to 7 Added Physical Damage per 15 Armour on Shield (previously 6 to 8).
+- Rolling Magma: Now Chains 3 times at Gem level 1 (previously 2), scaling up to Chain 5 times at Gem level 20 (previously 4).
+- Rolling Slam: Now has +1 second to total Attack time (previously +1.5 seconds). The First Slam now deals 75-272% of Attack Damage at Gem levels 1-20 (previously 90-367%), and the Second Slam now deals 150-543% of Attack Damage at Gem levels 1-20 (previously 180-735%).
+- Shattering Spite, granted by the Atziri's Contempt Unique Spear: Now has 50% Less Magnitude of Damaging Ailments you Inflict. No longer has Life Leech from Explosions with at least 15 Bloodstone Lances is instant.
+- Shield Wall: Now deals 5 to 7 Added Physical Damage per 15 Armour on Shield (previously 6 to 8).
+- Shred: Quality now grants 0-20% increased Attack Speed (previously 0-10% more Attack Speed).
+- Snipe: Now deals 121-312% of Attack Damage at Gem levels 3-20 (previously 133-343%), and Explosion now deals 484-1449% of Attack Damage at Gem levels 3-20 (previously 454-1358%). Icy Blast now deals 764-3067% of Attack Damage at Gem levels 3-20 (previously 913-3062%), and now has 33-50% more damage with Hits for explosions originating from a Unique enemy at Gem levels 3-20 (previously always 50%). Icy blast Explosion radius is now 3 metres (previously 3.2).
+- Spell Totem: Can now be used while moving, and has received an updated animation.
+- Supercharged Slam: Now more clearly states that it has a fixed attack time that cannot be modified. This is purely a description change.
+- Tame Beast: Summoned Beasts now deal 40% more damage at Gem Level 9 scaling up to 84% at Gem Level 20. Now immediately summons newly Tamed Beasts if you have enough spirit.
+- Tempest Bell: Can now be Ancestrally Boosted as though it were a Strike skill, and its maximum number of active Bells has been increased to 3 (previously 1), greatly improving its combo potential. Its Shockwave now deals 45-119% of Attack Damage at Gem levels 3-20 (previously 60-132%), and can trigger once every 0.3 seconds instead of 0.25 seconds.
+- Toxic Growth: Now fires 5 Pustules (previously 4), with a Limit of 5 Pustules (previously 12). Quality now grants Fires +0-1 Pustule and Limit +0-1 Pustule (previously +0-2 and +0-2).
+- Thrashing Vines: Updated description to clarify how frequently it spawns vines. This is not a functional change.
+- Time of Need: The interval between Blessings is no longer a duration. It now has "Modifiers to Cooldown Recovery Rate also apply to blessing frequency", and the interval has been reduced to 9.3-8.1 seconds at Gem levels 8-20 (previously 11.3-10.1).
+- Volcano: Now has a base Critical Hit Chance of 8% (previously 5%).
+- Whirling Assault: Quality now grants 0-20% increased Attack Speed (previously 0-15% more Attack Speed).
+- Wing Blast: Shockwave now deals 25% more damage at all Levels.
+[Return to top](#top)

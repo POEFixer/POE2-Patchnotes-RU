@@ -1,0 +1,133 @@
+## Bug Fixes
+
+- Fixed a bug where Life Flasks could not always be used while at full life with the Enduring Elixirs Pathfinder Notable Passive Skill, despite it allowing their effect to stay on you while on full life.
+- Fixed a bug where the Ritualist's Ritual Sacrifice skill gained a cooldown at level 20 specifically. Information about using Ritual Sacrifice on yourself has now been folded into the skill's description rather than being described separately on the "As the Whispers Demand" passive. This is purely a description change.
+- Fixed a bug where Pounce was providing additional Mark Effect to Predator's Mark or socketed Marks.
+- Fixed an issue that prevented Mirage Archer and Mirage Deadeye from properly rotating to follow their target while using Rapid Shot and similar Skills.
+- Fixed an issue that allowed certain Skills to be socketed into Mirage Archer and Mirage Deadeye that should have been prevented.
+- Fixed a bug that caused Devour and Feral Invocation to not interact correctly.
+- Fixed a bug where Minion Instability did not bypass Last Gasp.
+- Fixed a bug where Thunderstorms could be created out of bounds.
+- Fixed an issue where Hollow Palm Technique was not providing its bonuses to most skills that could be used with any Martial Weapon. Hollow Palm Technique now replaces your unarmed base damage for affected attacks, rather than adding damage on top of base unarmed damage.
+- Fixed a bug that could cause modifiers to unarmed critical hit chance to not be applied to displayed critical hit chance on the skill information popout.
+- Fixed several issues with mechanics that make modifiers to number of projectiles apply to other values instead.
+- Fixed some cases where some stats giving chances for additional projectiles didn't apply to skills like rain of arrows that use the number of projectiles to determine a number of things to place.
+- Fixed some cases where some stats for additional chains didn't apply to some beam skills.
+- Fixed a bug where the benefits Quality provided to Comet were not functioning.
+- Fixed a bug where Devour and Lightning Warp were able to devour or explode some Corpses they shouldn't.
+- Fixed a bug where Poison Spores Support did not have appropriate vendor and asynchronous trade prices.
+- Fixed a bug where Burning Inscription Support would create ignited ground around a monster instead of on top of the Runic Inscription.
+- Fixed a bug where the Low Tolerance Passive Skill was incorrectly described as increased Effect of Poison instead of increased Magnitude.
+- Fixed a bug where Arctic Howl could empower you in human form while using Echoing Cry.
+- Fixed some issues where ice crystals from Glacial Bolt could have weird damage calculations in some situations.
+- Fixed a bug where the Rathpith Globe Unique Focus was missing its unique on-cast effect. Existing items won't be fixed by this, unless you use a Divine Orb on them.
+- Fixed a bug where Tactician's Cannons, Ready! Notable Passive Skill would not cause totems to attack when the player uses Molten Blast, Rolling Magma, Oil Barrage, or Power Charged Falling Thunder.
+- Fixed a bug where the Melting Maelstrom Unique Ultimate Mana Flask was unable to hit enemies.
+- Fixed a bug where attacks that struck with both weapons simultaneously while dual wielding would have a longer attack time than intended. The intention is for these skills to use the average attack time of your weapons.
+- Fixed a bug where Skills that cost a percentage of maximum Energy Shield could not be used if you had no maximum Energy Shield.
+- Fixed a bug where the stat giving a chance for projectiles to be able to chain from terrain did not correctly count how many chains had been used, allowing projectiles in some cases to chain forever from terrain.
+- Fixed a bug where Forge Hammer Slams would not count when tracking slams for the Titan's Ancestral Empowerment Notable Passive Skill.
+- Fixed a bug where Heightened Charges Support would not apply to Flicker Strike's extra flickers per power charge consumed.
+- Fixed a bug where Living Lightning II did not scale its level from the Gem it was Supporting.
+- Fixed a bug where Into the Breach would not benefit from the Selfless Remnants Support Gem.
+- Fixed numerous bugs related to the player versions of Azmeri Spirit Possessions (created by the Rite of Passage Unique Charm) not using their skills or otherwise not functioning correctly. Player versions of Azmeri Spirit Possession modifiers (created by the Rite of Passage Unique Charm) now deal dramatically more damage and use their skills more frequently. Enemy versions are unchanged.
+- Fixed a bug where Dialla's Desire Lineage Support did not grant quality to Meta Skill gems and Item-granted Skill Gems.
+- Fixed a bug where the Hayoxi's Fulmination Lineage Support was able to support non-Curse Skills.
+- Fixed a bug with the Heavy Armour Notable Passive Skill, and adjusted the description to be more clear.
+- Fixed an issue where Shockwave Totem was able to be socketed into Ancestral Warrior Totem.
+- Fixed a bug where Echoing Cry was able to support Ancestral Cry.
+- Fixed a bug where the Melting Maelstrom Unique Ultimate Mana Flask was unable to hit enemies.
+- Fixed some unintended supportability with Mirage Archer and Deadeye for some Skills.
+- Fixed a bug where the calculation for Infernal Legion was always a critical hit if it had any amount of critical hit chance.
+- Fixed a bug where some types of reviving minion that are intended to inherit player movement speed modifiers were not doing so. Specifically: Smith of Kitava's Manifest Weapon, Rhoa Mount (while the player is dismounted), and Hyenas summoned by the Hysseg's Claw Unique Talisman.
+- Fixed some cases where two effects Empowering one skill use would not stack as expected.
+- Fixed an edge-case interaction with the Blood Price Unique Helmet's reservation combining with other reservations.
+- Fixed some cases of Skills that are inherently triggered not being considered triggered skills for other stats.
+- Fixed a bug that caused Grim Feast to sometimes fail to revive minions.
+- Fixed a bug where projectiles were ignoring Ice Crystrals created by Frozen Locus.
+- Fixed a bug that caused Ice Nova to have the wrong visual effects and audio when repeated.
+- Fixed a bug where the His Winnowing Flame skill granted by The Unborn Lich unique staff applied critical weakness on hit, and another bug where its triggered explosions from consuming Ignite dealt no damage.
+- Fixed a bug where channelled skills could not be interrupted by another channelled skill.
+- Fixed a bug where Abyss Precursor Tablets would add 1 additional Abyss each, instead of just enabling Abyss spawning.
+- Fixed a bug where negative Toughness did not apply more damage taken to the target. Now negative values of Toughness will apply an equal amount of More Damage Taken. Effectively, each 100% of toughness halves the damage a monster takes, and each -100% toughness doubles the damage a monster takes.
+- Fixed a bug that caused players to be unable to respawn if they died to Atziri, the Red Queen or Xipocado, the Royal Architect in party play.
+- Fixed a bug where bosses could occasionally push players out of their arena. Rude!
+- Fixed a bug which prevented The Iron Count from using his sword impale skill.
+- Fixed an issue that prevented The Bloated Miller's backhand swing from being able to be Blocked, Parried, or Evaded.
+- Fixed a bug that caused some boss skills to be unable to target player minions.
+- Fixed an issue which caused Abyss Pits to sometimes not close.
+- Fixed a bug where increased chance for Maps to contain a Summoning Circle was instead providing base chance for Maps to contain a Summoning Circle.
+- Fixed a bug where Rogue Exiles had a higher maximum Infusion count than intended.
+- Fixed an issue where the Boss Arena forcefield could sometimes fail to be removed in the Stronghold Map after defeating the Boss.
+- Fixed a bug where experimented monsters in the Synthflesh Lab could sometime get stuck.
+- Fixed an issue where Beyond bosses were getting more damage reduction than intended when they first spawned.
+- Fixed a bug where Arc provided additional chains regardless of whether Lightning Infusion was consumed.
+- Fixed a bug where the Poison on Critical Hit modifier on the Atsak's Sight Unique Helmet did not apply to critical hits with Thorns damage.
+- Fixed a bug where reloading or switching ammunition with a Crossbow was counted as attacking.
+- Fixed a bug where many bleed chance modifiers did not apply to Thorns damage.
+- Fixed a bug where certain triggered skills could generate energy.
+- Fixed a bug where the Prism of Belief Unique Jewel could roll modifiers for Solar Orb.
+- Fixed a bug where Stoicism Support was able to support non-Attack skills.
+- Fixed an issue where Volt Support incorrectly had the Chaining tag.
+- Fixed a bug where Iron Ward's nova wasn't correctly affected by Astral Projection Support.
+- Fixed a bug where Lightning Warp was prioritising selected targets instead of cullable enemies or Ball Lightning projectiles.
+- Fixed a bug where passives that granted "Increased Area of Effect of Ancestrally Boosted Attacks" were actually multiplicative.
+- Fixed a bug where Blink, Parry and Raise Shield were not counted as Skill uses. This also fixes a bug where using Parry or Raise Shield did not count as Channelling.
+- Fixed a bug where Surpassing chance to Fire an Additional Arrow could cause Lightning Rod arrow to fire to an incorrect location.
+- Fixed a bug where you could be placed at an incorrect checkpoint when respawning after dying to some bosses.
+- Fixed a bug where corrupting Essences could sometimes remove the Essence.
+- Fixed a bug where minions in Essence Monster packs did not have their stats increased due to being a part of a Rare pack.
+- Fixed a bug where Delirium fog would visually continue to spread while the game was paused.
+- Fixed a bug where items without modifiers could appear in lower-level Ritual Encounters.
+- Fixed a bug where you could not open a portal in the boss arena of the Creek Map after killing the boss.
+- Fixed an issue where the Roving Wisps encounter in Kriar Village was unable to be completed.
+- Fixed an issue where Summoning Circles were blocking projectiles after the boss is defeated and they crumble.
+- Fixed an issue where Shrines were difficult to highlight when surrounded by enemies.
+- Fixed an issue where you could be desynced when walking near the Tree of Souls after freeing the Hooded One in Grelwood.
+- Fixed a bug that could cause the player to visually move away from the centre of the screen when slowed while in Werewolf form.
+- Fixed an issue where the following quests wouldn't complete if you left the area before the boss had finished their death animation: Shrike Island, Isle of Kin, Whakapanu Island, Abandoned Prison
+- Fixed a bug where Soul Core Ultimatum Encounters could be completed using a single Soul Core.
+- Fixed a rare issue where there wasn't a Small Soul Core available to use in the first Stone Altar in Jiquani's Machinarium.
+- Fixed an issue where the Abyss world map icon at Ngakanu failed to complete when completing the corresponding Abyssal Depths.
+- Fixed a bug where the Shoreline Hideout world map icon did not complete.
+- Fixed an issue where ground effects could display incorrectly in Path of Mourning.
+- Fixed an issue where certain sources of player movement would sometimes cause the player to move in a slightly different direction from what was intended. This was particularly noticeable when using a controller, and with skills that have inbuilt movement (such as Dodge Roll and most melee skills).
+- Fixed an issue where Parry's description did not state that all hits can be parried, instead just mentioning strikes and projectiles.
+- Fixed an issue where Varashta's Blessing Lineage Support did not state that it does not modify the skills of minions. This is purely a description change.
+- Fixed an issue where Herald of Blood incorrectly state that its damage was based on maximum Life, it now correctly states that its damage is based on Blood Loss.
+- Fixed a bug where various hit sound effects were playing too loudly from party members.
+- Fixed a bug that would prevent the audio cue for Energy Shield being depleted from playing if the cause of the depletion was damage over time.
+- Fixed a bug where hovering over Totems in the Skills panel would incorrectly prompt you to "Right Click to activate" if you had the Ancestral Bond Keystone Passive Skill allocated.
+- Fixed a bug where items that could not have an Exalted Orb applied to them were incorrectly highlighted when you went to use an Exalted Orb.
+- Fixed a bug where double-clicking a portal or area transition with a confirmation popup would display that popup twice.
+- Fixed an issue where Boss health bars would be visible inside of the Atlas screen.
+- Fixed a bug where your friends list could sometimes appear blank on PlayStation after experiencing an instance crash.
+- Fixed a bug where the upgraded variants of Grip of Kulemak could not be stored in the Unique Stash Tab.
+- Fixed a bug where the presence radius indicator could stop working in certain situations.
+- Fixed a bug where the unsupported character glyph was showing in the thousands place for certain locales.
+- Fixed a bug that could cause Skills granted by Ascendancy Passive Skills to be hidden from the list of applicable Skills when cutting a Support Gem.
+- Fixed a bug where 'Word by Word' text navigation (Ctrl + Left/Right) in text fields would incorrectly wrap to the end of the text input in some situations.
+- Fixed a bug where having the Hostile Takeover quest completed on another character would show the Act 4 World Map prior to your character being in Act 4.
+- Fixed a bug where the "bulk move" action wasn't available in the market earnings page while playing with a controller.
+- Fixed a bug where players revived while inside another object would not be moved to safety.
+- Fixed a bug where you could not select Always Attack Without Moving for some Skills.
+- Fixed an issue where disabling the crossplay setting when playing on console would carry accross when you logged into that account on a PC.
+- Fixed a bug where couch co-op players trying to join a public party would be refused if the party only had just enough space for them.
+- Fixed a bug when playing in couch co-op where other players could be wrongly kicked from the party if Player 2 created and entered a Map.
+- Fixed a bug where Xipocado's Console could not be interacted with when playing in couch co-op.
+- Fixed a bug where disconnecting and reconnecting a controller would disable haptics.
+- Fixed a bug where crossplay could be disabled while the setting still showed it as enabled.
+- Fixed a bug where you could try to select characters in two different Leagues when playing in couch co-op.
+- Fixed an issue where selecting Solo Self-Found in the character selection filter greyed-out the create character button.
+- Fixed a bug where controller haptic feedback for low-health continued to play while the game was paused.
+- Fixed a bug where you could become stuck inside scenery when exiting hideout editing mode when using a controller.
+- Fixed an issue where the Enezun's Charge Unique Wand was missing its 3D model.
+- Fixed a bug where Pounce's Gem art did not reflect it being a Meta Gem.
+- Fixed an issue where the Consuming Tentacle Rare Finisher Effect was previously stated as being enabled in Path of Exile 2 but could not be equipped.
+- Fixed an issue where the Black Hole Rare Finisher Effect was previously stated as being enabled in Path of Exile 2 but could not be equipped.
+- Fixed an issue where the Dragon Fire Rare Finisher Effect was previously stated as being enabled in Path of Exile 2 but could not be equipped.
+- Fixed a bug where the Arachnamagus Portal Effect microtransaction was missing its effects.
+
+We really hope you enjoy Path of Exile 2: Return of the Ancients. [Thanks for your support](https://pathofexile2.com/purchase)!
+
+[Return to top](#top)

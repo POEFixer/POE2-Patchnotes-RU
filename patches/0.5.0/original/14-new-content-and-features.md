@@ -1,0 +1,77 @@
+## New Content and Features
+
+- Introduced the new Martial Artist Ascendancy Class for the Monk. After decades of training, the Martial Artist has become a master of illusions. Empowered by the runes socketed into his body, this class creates powerful illusions, summons illusory bells to aid him, and excels at using his hands as weapons.
+- Introduced the new Spirit Walker Ascendancy Class for the Huntress. Bound to the wilds, this class calls upon spirits to answer to her will granting different abilities aligning with the Stag, Owl or Bear. Through their guidance, the Spirit Walker may subdue even the most formidable beasts, binding them in spirit, or call forth a spectral companion to fight beside her.
+- New Lineage Support: Arbiter's Reach
+- New Lineage Support: Breachlord's Amalgam
+- New Lineage Support: Catha's Brilliance
+- New Lineage Support: Eonyr's Thunder
+- New Lineage Support: Esh's Prowess
+- New Lineage Support: Helbrym's Hide
+- New Lineage Support: Her Declaration
+- New Lineage Support: Medved's Felling
+- New Lineage Support: Mórrigan's Insight
+- New Lineage Support: Prototype Seventeen
+- New Lineage Support: Seraph's Heart
+- New Lineage Support: Styrn's Ferocity
+- New Lineage Support: Styrn's Mountain
+- New Lineage Support: Tangmazu's Thurible
+- New Lineage Support: Trickster's Shard
+- New Lineage Support: Tul's Avalanche
+- New Lineage Support: Uhtred's Constellation
+- New Lineage Support: Uhtred's Rite
+- New Lineage Support: Vorana's Siege
+- New Lineage Support: Vruun's Inevitability
+- New Lineage Support: Vruun's Aftermath
+- New Unique item: Berek's Grip
+- New Unique item: Berek's Pass
+- New Unique item: Berek's Respite
+- New Unique item: Brutus' Lead Sprinkler
+- New Unique item: Cat O' Nine Tails
+- New Unique item: Decree of Acuity
+- New Unique item: Decree of Flight
+- New Unique item: Decree of Loyalty
+- New Unique item: Duality
+- New Unique item: Eventide Petals
+- New Unique item: Eyes of the Runefather
+- New Unique item: Facebreaker
+- New Unique item: Farrow's Gift
+- New Unique item: Forgotten Warden
+- New Unique item: Geofri's Sanctuary
+- New Unique item: Gatecrasher
+- New Unique item: Horror's Flight
+- New Unique item: Ironbound
+- New Unique item: Liminal Coil
+- New Unique item: Loreweave
+- New Unique item: Mageblood
+- New Unique item: Mastered Domain
+- New Unique item: Nightfall
+- New Unique item: Opportunity
+- New Unique item: Redemption
+- New Unique item: Periphery
+- New Unique item: Sadist's Mercy
+- New Unique item: Serle's Grit
+- New Unique item: Spiteful Floret
+- New Unique item: Split Personality
+- New Unique item: Surge of the Tide
+- New Unique item: Sylvan's Effigy
+- New Unique item: The Auspex
+- New Unique item: The Hollow Mask
+- New Unique item: The Ordained
+- New Unique item: The Raven's Flock
+- New Unique item: The Sunken Vessel
+- New Unique item: The Unleashed
+- New Unique item: Twisted Empyrean
+- New Unique item: Vestige of Darkness
+- New Unique item: Veilpiercer
+- New Unique item: Voices
+- Added 8 new Idols that come exclusively from monsters possessed by Azmerian Spirits.
+- Added the new Minion Splash and Minion Splash II Strength Support Gems. These Support Skills which create Minions which Strike, causing those Minions' Strikes to have Melee Splash.
+- The Fragment Stash Tab is now available for use in Path of Exile 2. It can hold your Fragments (including Breach Splinters, Simulacrums, Audience with the King), Inscribed Ultimatums and Baryas, as well as Tablets. If you previously purchased one in Path of Exile, it will automatically be made available to you once the 0.5.0 patch is deployed. For those without a Fragment Stash Tab, you will be able to find this in the Stash Tabs section of the microtransaction store after 0.5.0 goes live.
+- Added support for Build Guides. Community creators who write build guides can now create .build files for players to download. When selected in the game client, these will show you everything you need to know for that build, including Passive Skills to allocate, which Ascendancy Passive Skills to take, Skill Gems to equip, as well as recommendations for Support Gems.
+- Added the ability to quickly search the trade market with an item you have. Shift-Alt Clicking on an item will populate the filters for searching the trade market so you can see the current prices. For Rare items, you can enable and disable each modifier to easily determine the effect each one has on an item's price.
+- In party-play, you can now quickly revive any fallen party members after defeating the Boss.
+- You can now skip dialogue sequences with NPCs by pressing Escape.
+- Added a Reforging Bench to the entrance of the Trial of the Sekhemas.
+- Continued to incrementally improve the sound, art, effects and environments.
+[Return to top](#top)
