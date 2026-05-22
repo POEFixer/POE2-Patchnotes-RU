@@ -1,0 +1,77 @@
+## Новый контент и возможности
+
+- Добавлен новый Ascendancy-класс Martial Artist для Monk. После десятилетий тренировок Martial Artist стал мастером иллюзий. Усиленный рунами, вживлёнными в его тело, этот класс создаёт мощные иллюзии, призывает призрачные колокола себе в помощь и виртуозно владеет руками как оружием.
+- Добавлен новый Ascendancy-класс Spirit Walker для Huntress. Связанная с дикой природой, она призывает духов, повинующихся её воле, и получает разные способности, соответствующие Stag, Owl или Bear. Под их руководством Spirit Walker может покорять даже самых грозных зверей, связывая их духом, или призывать призрачного спутника, сражающегося рядом с ней.
+- Новый Lineage Support: Arbiter's Reach
+- Новый Lineage Support: Breachlord's Amalgam
+- Новый Lineage Support: Catha's Brilliance
+- Новый Lineage Support: Eonyr's Thunder
+- Новый Lineage Support: Esh's Prowess
+- Новый Lineage Support: Helbrym's Hide
+- Новый Lineage Support: Her Declaration
+- Новый Lineage Support: Medved's Felling
+- Новый Lineage Support: Mórrigan's Insight
+- Новый Lineage Support: Prototype Seventeen
+- Новый Lineage Support: Seraph's Heart
+- Новый Lineage Support: Styrn's Ferocity
+- Новый Lineage Support: Styrn's Mountain
+- Новый Lineage Support: Tangmazu's Thurible
+- Новый Lineage Support: Trickster's Shard
+- Новый Lineage Support: Tul's Avalanche
+- Новый Lineage Support: Uhtred's Constellation
+- Новый Lineage Support: Uhtred's Rite
+- Новый Lineage Support: Vorana's Siege
+- Новый Lineage Support: Vruun's Inevitability
+- Новый Lineage Support: Vruun's Aftermath
+- Новый Unique-предмет: Berek's Grip
+- Новый Unique-предмет: Berek's Pass
+- Новый Unique-предмет: Berek's Respite
+- Новый Unique-предмет: Brutus' Lead Sprinkler
+- Новый Unique-предмет: Cat O' Nine Tails
+- Новый Unique-предмет: Decree of Acuity
+- Новый Unique-предмет: Decree of Flight
+- Новый Unique-предмет: Decree of Loyalty
+- Новый Unique-предмет: Duality
+- Новый Unique-предмет: Eventide Petals
+- Новый Unique-предмет: Eyes of the Runefather
+- Новый Unique-предмет: Facebreaker
+- Новый Unique-предмет: Farrow's Gift
+- Новый Unique-предмет: Forgotten Warden
+- Новый Unique-предмет: Geofri's Sanctuary
+- Новый Unique-предмет: Gatecrasher
+- Новый Unique-предмет: Horror's Flight
+- Новый Unique-предмет: Ironbound
+- Новый Unique-предмет: Liminal Coil
+- Новый Unique-предмет: Loreweave
+- Новый Unique-предмет: Mageblood
+- Новый Unique-предмет: Mastered Domain
+- Новый Unique-предмет: Nightfall
+- Новый Unique-предмет: Opportunity
+- Новый Unique-предмет: Redemption
+- Новый Unique-предмет: Periphery
+- Новый Unique-предмет: Sadist's Mercy
+- Новый Unique-предмет: Serle's Grit
+- Новый Unique-предмет: Spiteful Floret
+- Новый Unique-предмет: Split Personality
+- Новый Unique-предмет: Surge of the Tide
+- Новый Unique-предмет: Sylvan's Effigy
+- Новый Unique-предмет: The Auspex
+- Новый Unique-предмет: The Hollow Mask
+- Новый Unique-предмет: The Ordained
+- Новый Unique-предмет: The Raven's Flock
+- Новый Unique-предмет: The Sunken Vessel
+- Новый Unique-предмет: The Unleashed
+- Новый Unique-предмет: Twisted Empyrean
+- Новый Unique-предмет: Vestige of Darkness
+- Новый Unique-предмет: Veilpiercer
+- Новый Unique-предмет: Voices
+- Добавлено 8 новых Idols, выпадающих исключительно из монстров, одержимых Azmerian Spirits.
+- Добавлены новые Strength Support Gems Minion Splash и Minion Splash II. Эти Support-скиллы применяются к скиллам, создающим minions, использующих Strike, и заставляют Strike этих minions иметь Melee Splash.
+- Fragment Stash Tab теперь доступен в Path of Exile 2. В нём можно хранить ваши fragments (включая Breach Splinters, Simulacrums, Audience with the King), Inscribed Ultimatums и Baryas, а также tablets. Если вы ранее покупали его в Path of Exile, он автоматически станет доступен вам после выхода патча 0.5.0. Тем, у кого нет Fragment Stash Tab, его можно будет найти в разделе Stash Tabs магазина микротранзакций после выхода 0.5.0.
+- Добавлена поддержка билд-гайдов (Build Guides). Создатели сообщества, пишущие билд-гайды, теперь могут создавать .build-файлы, которые игроки могут скачать. При выборе в игровом клиенте такой файл покажет вам всё необходимое для этого билда, включая Passive Skills для прокачки, какие Ascendancy Passive Skills брать, какие Skill Gems экипировать, а также рекомендации по Support Gems.
+- Добавлена возможность быстро искать на торговой площадке по уже имеющемуся у вас предмету. Shift+Alt+клик по предмету заполнит фильтры поиска торговой площадки, чтобы вы могли увидеть актуальные цены. Для Rare-предметов можно включать и выключать каждый мод, чтобы легко определить, как каждый из них влияет на цену предмета.
+- В игре по группе теперь можно быстро воскресить всех павших участников группы после победы над боссом.
+- Теперь можно пропускать диалоги с NPC нажатием Escape.
+- Добавлен Reforging Bench у входа в Trial of the Sekhemas.
+- Продолжаем последовательно улучшать звук, арт, эффекты и окружение.
+[Вернуться к началу](#top)
