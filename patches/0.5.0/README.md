@@ -4,6 +4,11 @@
 **Источник:** [pathofexile.com/forum/view-thread/3932540](https://www.pathofexile.com/forum/view-thread/3932540)
 **Статус перевода:** _завершён 2026-05-22_
 
+## Полный текст одним файлом
+
+- Русский перевод целиком: [ru/full.md](./ru/full.md)
+- Английский оригинал целиком: [original/full.md](./original/full.md)
+
 ## Содержание
 
 | # | Раздел | Файл |
@@ -34,11 +39,6 @@
 | 23 | Изменения пользовательского интерфейса | [ru/23-user-interface-changes.md](./ru/23-user-interface-changes.md) |
 | 24 | Изменения микротранзакций | [ru/24-microtransaction-changes.md](./ru/24-microtransaction-changes.md) |
 | 25 | Исправлено (bug fixes) | [ru/25-bug-fixes.md](./ru/25-bug-fixes.md) |
-
-## Полный текст одним файлом
-
-- Русский перевод целиком: [ru/full.md](./ru/full.md)
-- Английский оригинал целиком: [original/full.md](./original/full.md)
 
 ## Оригинал по разделам
 
