@@ -251,6 +251,152 @@
 | The Aqueduct | The Aqueduct | keep |
 | Cruel | Cruel | keep |
 
+## 0.5.0 — Return of the Ancients additions (keep)
+
+Новые термины, появившиеся в патче 0.5.0. Все — `keep`.
+
+### Runes of Aldur League
+
+| EN | RU | Category |
+|---|---|---|
+| Return of the Ancients | Return of the Ancients | keep |
+| Runes of Aldur | Runes of Aldur | keep |
+| Remnant | Remnant | keep |
+| Runic Recipe | Runic Recipe | keep |
+| Runeshape | Runeshape | keep |
+| Verisium | Verisium | keep |
+| Verisium Runeforging | Verisium Runeforging | keep |
+| Runic Ward | Runic Ward | keep |
+| Alloy | Alloy | keep |
+| Ancient Rune | Ancient Rune | keep |
+| Mythical Rune | Mythical Rune | keep |
+| Flux | Flux | keep |
+| Meta crafting rune | Meta crafting rune | keep |
+| Kalguuran Skills | Kalguuran Skills | keep |
+| Kalguuran Supports | Kalguuran Supports | keep |
+| Knight of Aldur Armour Set | Knight of Aldur Armour Set | keep |
+| The Ruins of Kingsmarch | The Ruins of Kingsmarch | keep |
+| Grand Expedition | Grand Expedition | keep |
+| Pinnacle Boss | Pinnacle Boss | keep |
+| Early Access | Early Access | keep |
+| Standard | Standard | keep |
+| Hardcore | Hardcore | keep |
+| Solo Self-Found | Solo Self-Found | keep |
+| Farrow | Farrow | keep |
+
+### Endgame overhaul
+
+| EN | RU | Category |
+|---|---|---|
+| Origins of Divinity | Origins of Divinity | keep |
+| Cataclysm of the Beast | Cataclysm of the Beast | keep |
+| Fortress | Fortress | keep |
+| Gates | Gates | keep |
+| Precursor | Precursor | keep |
+| Ancient Modifier | Ancient Modifier | keep |
+| Gateway Map | Gateway Map | keep |
+| Precursor Tower Map | Precursor Tower Map | keep |
+| The Burning Monolith | The Burning Monolith | keep |
+| Crisis Fragment | Crisis Fragment | keep |
+| Enigma Chamber | Enigma Chamber | keep |
+| Citadel Map | Citadel Map | keep |
+| Arbiter of Divinity | Arbiter of Divinity | keep |
+| Masters of the Atlas | Masters of the Atlas | keep |
+| Atlas Master | Atlas Master | keep |
+| Jado | Jado | keep |
+| Order of the Djinn | Order of the Djinn | keep |
+| Hilda | Hilda | keep |
+| Doryani's Science | Doryani's Science | keep |
+| Hilda's Hunting | Hilda's Hunting | keep |
+| Jado's Spycraft | Jado's Spycraft | keep |
+| anomaly map | anomaly map | keep |
+| corruption nexus | corruption nexus | keep |
+
+### Delirium / Breach / Ritual / Vaal
+
+| EN | RU | Category |
+|---|---|---|
+| Trickster God | Trickster God | keep |
+| Wraeclast | Wraeclast | keep |
+| The Withered Willow | The Withered Willow | keep |
+| Loathsome Mire | Loathsome Mire | keep |
+| Liquid Emotion | Liquid Emotion | keep |
+| Grand Mirror | Grand Mirror | keep |
+| Trial of Madness | Trial of Madness | keep |
+| Simulacrum | Simulacrum | keep |
+| Potent Emotion | Potent Emotion | keep |
+| Ancient Emotion | Ancient Emotion | keep |
+| Timelost Jewel | Timelost Jewel | keep |
+| Raven-Touched | Raven-Touched | keep |
+| Monastery of the Keepers | Monastery of the Keepers | keep |
+| Keepers of the Flame | Keepers of the Flame | keep |
+| Genesis Tree | Genesis Tree | keep |
+| Stabilised Breach | Stabilised Breach | keep |
+| Vruun, Marshal of Xesht | Vruun, Marshal of Xesht | keep |
+| Wombgift | Wombgift | keep |
+| Hiveblood | Hiveblood | keep |
+| Breachstone | Breachstone | keep |
+| Breach Domain | Breach Domain | keep |
+| Breach Hive | Breach Hive | keep |
+| Sky Hive | Sky Hive | keep |
+| Sky Fortress | Sky Fortress | keep |
+| Tul | Tul | keep |
+| Esh | Esh | keep |
+| Aoife | Aoife | keep |
+| Caer Tarth | Caer Tarth | keep |
+| Rite of the Nameless | Rite of the Nameless | keep |
+| The Queen in the Mists | The Queen in the Mists | keep |
+| Freythorn Ritual | Freythorn Ritual | keep |
+| Fate of the Vaal | Fate of the Vaal | keep |
+| Ancient Beacon | Ancient Beacon | keep |
+| Energised Crystal | Energised Crystal | keep |
+| Lira Vaal | Lira Vaal | keep |
+| Atziri's Temple | Atziri's Temple | keep |
+| Vaal Beacon | Vaal Beacon | keep |
+| Vaal Cultivation Orb | Vaal Cultivation Orb | keep |
+
+### Ascendancies (0.5.0)
+
+| EN | RU | Category |
+|---|---|---|
+| Martial Artist | Martial Artist | keep |
+| Spirit Walker | Spirit Walker | keep |
+
+### Notable new uniques (subset)
+
+| EN | RU | Category |
+|---|---|---|
+| Berek's Grip | Berek's Grip | keep |
+| Reverie | Reverie | keep |
+| Sine Aequo | Sine Aequo | keep |
+| Ab Aeterno | Ab Aeterno | keep |
+| Blackflame | Blackflame | keep |
+| Brass Dome | Brass Dome | keep |
+| Hyrri's Ire | Hyrri's Ire | keep |
+| Megalomaniac | Megalomaniac | keep |
+| Plaguefinger | Plaguefinger | keep |
+| Soul Mantle | Soul Mantle | keep |
+| Svalinn | Svalinn | keep |
+| Zerphi's Genesis | Zerphi's Genesis | keep |
+| Husk of Dreams | Husk of Dreams | keep |
+| Loreweave | Loreweave | keep |
+| Voices | Voices | keep |
+| Tabula Rasa | Tabula Rasa | keep |
+
+### Player mechanics / new keywords
+
+| EN | RU | Category |
+|---|---|---|
+| Honour | Honour | keep |
+| Trinity | Trinity | keep |
+| Affinity | Affinity | keep |
+| Archon | Archon | keep |
+| Elemental Archon | Elemental Archon | keep |
+| Lineage Support | Lineage Support | keep |
+| Companion | Companion | keep |
+| Glory | Glory | keep |
+| Idol | Idol | keep |
+
 ## Verbs and common nouns (translate)
 
 | EN | RU | Category |
