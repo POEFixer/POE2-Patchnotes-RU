@@ -1,0 +1,92 @@
+## Изменения предметов
+
+- Валюты Greater и Perfect стали несколько реже, а Transmutation и Augmentation — значительно реже.
+- Greater Orbs of Transmutation и Greater Orbs of Augmentation теперь имеют минимальный Modifier Level 44 (ранее 55), что делает их доступнее. Теперь они могут начинать выпадать в Act 4.
+- Divine Orbs теперь встречаются чаще.
+- Результат Corruption, который рандомизирует числовые значения модификаторов на предмете за пределами нормального диапазона, теперь умножает каждый модификатор на основе текущего значения вместо рандомизации значения.
+- Sanctifying предмета теперь умножает значение каждого модификатора на основе текущего значения вместо рандомизации значений.
+- Omen of Corruption больше нельзя получить.
+- Martial Weapons и Flasks, найденные в кампании, теперь с большей вероятностью будут наивысшего базового типа, доступного на этом уровне.
+- Общее количество Essences, найденных в кампании, увеличено, хотя доля Essences of the Infinite среди них значительно снижена. Это приведёт к тому, что по мере прохождения вы будете находить больше полезных эссенций.
+- Количество Armour, предоставляемое предметами и модификаторами, увеличено по мере достижения более высоких уровней. На уровне 65 у вас должно быть примерно на 33% больше Armour, снижаясь до 15% на уровне 80+.
+- Количество Evasion, предоставляемое предметами и модификаторами, увеличено по мере достижения более высоких уровней. На уровне 65 у вас должно быть примерно на 33% больше evasion, снижаясь до 15% на уровне 80+.
+- Количество Energy Shield, предоставляемое предметами, теперь примерно на 8% больше на уровне 65 и не изменилось на уровне 80+.
+- Базовый тип брони Vile Robe теперь имеет 171 Base Energy Shield (ранее 184).
+- Базовое значение Armour существующих предметов будет автоматически скорректировано, а модификаторы Armour на существующих предметах можно обновить с помощью Divine Orb.
+- Увеличена базовая Weapon Range некоторых базовых типов Martial Weapon. One-hand Maces теперь имеют базовую Weapon Range 1.3 (ранее 1.1), 1.5 для Two-hand Maces (ранее 1.3) и 1.4 для Quarterstaves (ранее 1.3).
+- Базовые типы Obliterator Bow и Artillery Bow теперь имеют 1.1 Attacks per second (ранее 1.15).
+- Implicit-модификатор для Warden и Guardian Bows теперь даёт 25-35% chance to Chain an additional time (ранее 20-30%). Существующие предметы можно обновить с помощью Divine Orb.
+- Implicit-модификатор для Rabid, Fury и Maji Talismans теперь даёт +7-10 Maximum Rage (ранее +8-12). Существующие предметы можно обновить с помощью Divine Orb.
+- Implicit-модификатор для Voltfang и Thunder Talismans теперь даёт 20-30% increased Magnitude of Shock you inflict (ранее 15-25%). Существующие предметы можно обновить с помощью Divine Orb.
+- Предметы Alternate Quality (от Breach Catalysts) теперь можно salvage, чтобы вернуть часть использованных Catalysts.
+- Модификаторы plus to Level of all Melee Skills на Two Handed Attack Weapons теперь имеют значение +5 на Tier 1 (ранее +7), нижние тиры также скорректированы.
+- Модификаторы plus to Level of all Projectile Skills на Two Handed Attack Weapons теперь имеют значение +5 на Tier 1 (ранее +7), нижние тиры также скорректированы.
+- Модификаторы plus to Level of all Melee Skills на One-handed Attack Weapons теперь имеют значение +4 на Tier 1 (ранее +5), нижние тиры также скорректированы.
+- Модификаторы plus to Level of all Projectile Skills на One-handed Attack Weapons теперь имеют значение +4 на Tier 1 (ранее +5), нижние тиры также скорректированы.
+- Модификатор +2 to level of Projectile Skills на Quivers теперь имеет значение +1.
+- Модификатор plus to level all Gems на Attack Weapons теперь может выпадать только выше уровня 18.
+- Добавлено: модификаторы Surpassing chance to fire an additional Arrow для Quivers.
+- Perfect Essence of Battle теперь даёт +3 to Level of all Attack Skills на Two Hand Melee Weapons или Crossbows (ранее +5) и +2 to Level of all Attack Skills на One Handed Melee Weapons или Bows (ранее +3).
+- Essence of Hysteria теперь даёт 20-23% increased Energy Shield Recharge Rate при применении к Foci (ранее 41-45%).
+- Body Runes теперь дают +30/45/60 Maximum Life при сокете в Armour (ранее +20/30/40), +30/40/50 Maximum Energy Shield при сокете в Staves и Wands (ранее +25/30/35) и дают Leech 3/4/5% of Physical Damage as Life при сокете в Martial Weapons (ранее 2/2.5/3%).
+- Mind Runes теперь дают +20/30/40 Maximum Mana при сокете в Armour (ранее +15/25/35), +45/60/75 Maximum Mana при сокете в Staves и Wands (ранее +30/40/50) и дают Leech 2/3/4% of Physical Damage as Mana (ранее 1.5/2/2.5%)
+- Rebirth Runes теперь дают Gain 15/25/35 Life per enemy killed при сокете в Martial Weapon (ранее 10/20/30) и теперь дают Regenerate 0.35/0.4/0.45% of Maximum Life per second при сокете в Armour (ранее 0.25/0.3/0.35%).
+- Inspiration Runes теперь дают Gain 10/20/30 Mana per enemy killed при сокете в Martial Weapon (ранее 8/16/24) и дают 20/25/30% increased Mana Regeneration Rate при сокете в Staves и Wands (ранее 16/20/24%).
+- Stone Runes теперь дают Cause 20/30/40% increased Stun Buildup при сокете в Martial Weapon (ранее 20/25/30%) и дают +50/75/100 to Stun Threshold при сокете в Armour (ранее +40/60/80).
+- Vision Runes теперь дают +60/90/120 to Accuracy Rating при сокете в Martial Weapon (ранее +50/80/110) и 8/12/16% increased Life and Mana Flask Recovery при сокете в Armour (ранее 8/10/12%).
+- Desert Runes теперь дают +10/14/18% to Fire Resistance при сокете в Armour (ранее +10/12/14%). Модификатор Bonded на Martial Weapons, Wands и Staves теперь даёт 30% increased Ignite Magnitude (ранее 25%).
+- Glacial Runes теперь дают +10/14/18% to Cold Resistance при сокете в Armour (ранее +10/12/14%).
+- Storm Runes теперь дают +10/14/18% to Lightning Resistance при сокете в Armour (ранее +10/12/14%)
+- Robust Runes теперь дают +6/9/12 to Strength при сокете в Equipment (ранее +6/8/10).
+- Adept Runes теперь дают +6/9/12 to Dexterity при сокете в Equipment (ранее +6/8/10).
+- Resolve Runes теперь дают +6/9/12 to Intelligence при сокете в Equipment (ранее +6/8/10).
+- Стандартные Bonded-модификаторы рун теперь дают 20 Life и 20 Mana при сокете в Armour (ранее 10 Life и 10 Mana).
+- Lesser Rebirth Runes теперь дают 4% increased Energy Shield Recharge Rate при сокете в Wand или Staff (ранее 12%). Это изменение применяется к существующим предметам.
+- Rebirth Runes теперь дают 6% increased Energy Shield Recharge Rate при сокете в Wand или Staff (ранее 15%). Это изменение применяется к существующим предметам.
+- Greater Rebirth Runes теперь дают 8% increased Energy Shield Recharge Rate при сокете в Wand или Staff (ранее 18%). Это изменение применяется к существующим предметам.
+- Craiceann's Rune of Recovery теперь даёт 30% increased Energy Shield Recharge Rate при сокете в Body Armour (ранее 50%). Существующие предметы затронуты этим изменением.
+- Lady Hestra's Rune of Winter больше не даёт Adds 19 to 28 Cold Damage, вместо этого даёт Adds 19 to 28 Cold Damage against Chilled or Frozen Enemies.
+- Thane Leld's Rune of Spring больше не даёт Adds 1 to 60 Lightning Damage, вместо этого даёт Adds 1 to 60 Lightning Damage against Shocked Enemies.
+- Thane Myrk's Rune of Summer больше не даёт Adds 23 to 34 Fire Damage, вместо этого даёт Adds 23 to 34 Fire Damage against Ignited Enemies.
+- Все Idols теперь также можно сокетить в Sceptres.
+- Idol of Egrin теперь даёт 20% increased Curse Duration при сокете в Sceptre.
+- Idol of Eeshta теперь даёт 15% increased Cost Efficiency при сокете в Helmet (ранее 12%). Теперь он даёт 30% increased Mana Recovery Rate while your Companion is in your Presence при сокете в Sceptre.
+- Idol of Grold теперь сокетится в Boots. Теперь он даёт 50% increased total Power counted by Warcries (ранее 20%). Теперь даёт 15% increased Damage for each different Companion in your Presence при сокете в Sceptre. Модификатор Bonded теперь даёт 30% increased glory generation (ранее 20%).
+- Idol of Maxarius теперь даёт 0.2 Flask Charges per second при сокете в Sceptre.
+- Idol of Ralakesh теперь даёт 40% increased Armour, Evasion and Energy Shield while your Companion is in your Presence при сокете в Sceptre.
+- Idol of Sirrius теперь даёт Allies in your Presence have 8% increased Movement Speed при сокете в Sceptre. Модификатор Bonded теперь даёт 20% reduced slow potency (ранее 15%).
+- Idol of Thruldana теперь даёт Allies in your Presence deal 13 to 27 added Attack Chaos Damage при сокете в Sceptre.
+- Bear Idol теперь даёт 10% increased Area of Effect при сокете в Helmets (ранее 8%). Модификатор Bonded теперь даёт 12% increased Reservation Efficiency of Companion Skills при сокете в Helmets (ранее 10%).
+- Boar Idol теперь даёт Allies in your Presence Regenerate 0.5% of your Maximum Life per second при сокете в Sceptres (ранее Allies in your Presence Regenerate 8 life per second). Модификатор Bonded теперь даёт 25% increased Warcry Cooldown Recovery Rate при сокете в Gloves (ранее 15%).
+- Cat Idol теперь даёт 25% increased Accuracy Rating при сокете в Gloves (ранее 15%). Модификатор Bonded теперь даёт 30% increased Charm Charges gained при сокете в Gloves (ранее 20%).
+- Fox Idol теперь имеет лимит 1. Теперь он даёт Other Socketed Idols in this item also grant their Bonded Modifiers при сокете в Body Armours (ранее +2% to Quality of all Skills). Модификатор Bonded теперь даёт +5% to Quality of all Skills при сокете в Body Armours (ранее +4 to all attributes).
+- Owl Idol теперь даёт 12% increased Cooldown Recovery Rate при сокете в Foci (ранее 10%) и Allies in your Presence have 10% increased Cast Speed при сокете в Sceptres (ранее 8%). Модификатор Bonded теперь даёт 20% increased effect of Archon Buffs on you при сокете в Foci (ранее 15%).
+- Ox Idol теперь даёт 15% increased Block chance при сокете в Shields и Bucklers (ранее 10%) и Allies in your Presence have +12% to all Elemental Resistances при сокете в Sceptres (ранее 8%). Модификатор Bonded теперь даёт 15% chance for Damage of Enemies Hitting you to be unlucky при сокете в Shields и Bucklers (ранее 10%).
+- Primate Idol теперь даёт Minions have 15% increased maximum Life при сокете в Helmet (ранее 12%) и Allies in your Presence deal 40% increased Damage при сокете в Sceptre (ранее 30%). Модификатор Bonded теперь даёт Remnants can be collected from 15% further away при сокете в Helmets (ранее 20%).
+- Rabbit Idol теперь имеет лимит 1. Теперь он даёт 12% increased Rarity of Items found при сокете в Body Armours (ранее 5%) и 15% increased Spirit при сокете в Sceptres (ранее 10%). Модификатор Bonded теперь даёт 10% increased Quantity of Gold Dropped by Slain Enemies при сокете в Body Armours (ранее 5%).
+- Snake Idol теперь даёт 8% increased Curse Magnitude при сокете в Gloves (ранее 5%) и Allies in your Presence have 10% increased Attack Speed при сокете в Sceptre (ранее 8%). Модификатор Bonded теперь даёт Remnants have 15% increased Effect при сокете в Gloves (ранее 10%).
+- Stag Idol теперь имеет лимит 1. Теперь он даёт Projectiles have 15% chance to Fork при сокете в Helmets (ранее 50% increased Thorns Critical Hit Chance). Модификатор Bonded для Helmets теперь даёт 30% chance for an additional Projectile when Forking (ранее Thorns Damage has 40% chance to ignore Enemy Armour).
+- Wolf Idol теперь даёт 15% increased Magnitude of Bleeding you inflict при сокете в Gloves (ранее 10%) и Allies in your Presence have 20% increased Critical Damage Bonus при сокете в Sceptres (ранее 14%). Модификатор Bonded теперь даёт 25% reduced Magnitude of Bleeding on you при сокете в Gloves (ранее 15%).
+- Atmohua's Soul Core of Retreat больше не даёт 30% faster start of Energy Shield Recharge при сокете в Body Armour или Focus. Вместо этого теперь даёт Gain additional Ailment Threshold equal to 15% of maximum Energy Shield и Gain additional Stun Threshold equal to 15% of maximum Energy Shield. Это изменение применяется к существующим предметам.
+- Maximum Rage на Ruby Jewels теперь может выпадать в диапазоне +1-2 to Maximum Rage (ранее +1). Существующие предметы, возможно, можно обновить до новых значений с помощью Divine Orb.
+- Increased Chaos Damage на Sapphire Jewels теперь может выпадать в диапазоне 7-13% (ранее 6-12%). Существующие предметы, возможно, можно обновить до новых значений с помощью Divine Orb.
+- Suffix-модификаторы, дающие faster start of Energy Shield Recharge, больше не могут выпадать на Foci, Intelligence Body Armours или Jewels.
+- Suffix-модификаторы Increased Energy Shield Recharge Rate теперь могут выпадать на Intelligence Body Armours.
+- Implicit-модификатор на нагрудниках Arcane Raiment и Sacramental Robe теперь 15-25% increased Energy Shield Recharge Rate вместо 40-50% faster start of Energy Shield Recharge. Это изменение не затрагивает существующие предметы.
+- Prefix-модификатор "Fevered" больше не может выпадать на Time-Lost Sapphire и Sapphire Jewels.
+- Suffix-модификаторы "of Diffusion", "of Dispersal" и "of Enlivening" больше не могут выпадать на Body Armours и Foci.
+- Suffix-модификатор "of Buffering" теперь даёт 12-15% increased Energy Shield Recharge Rate (ранее 36-40%). Существующие предметы можно ухудшить с помощью Divine.
+- Suffix-модификатор "of Ardour" теперь даёт 16-19% increased Energy Shield Recharge Rate (ранее 41-45%). Существующие предметы можно ухудшить с помощью Divine.
+- Suffix-модификатор "of Suffusion" теперь даёт 20-23% increased Energy Shield Recharge Rate (ранее 46-50%). Существующие предметы можно ухудшить с помощью Divine.
+- Модификаторы Cast Speed на Rings и Amulets больше не общие с Foci и Wands. Для Rings и Amulets эти модификаторы теперь выпадают на немного более высоких уровнях. Cast speed-модификатор высшего тира для Rings теперь выпадает на уровне 60, а для Amulets — на уровне 66. Максимальные значения этих модификаторов не изменились.
+- Модификаторы Increased Banner Area of Effect на Jewels теперь имеют значения 6-16% (ранее 10-20%). Существующие предметы можно обновить до новых значений с помощью Divine Orb.
+- Desecrated-модификаторы, дающие Instant Leech, больше не могут выпадать, существующие предметы это изменение не затронет.
+- Гибридный модификатор "Squire's" Physical Damage and Accuracy на Weapons теперь имеет минимальный уровень 8 (ранее 1). У существующих предметов будет изменён уровень требования.
+- Гибридный модификатор "Journeyman's" Physical Damage and Accuracy на Weapons теперь имеет минимальный уровень 14 (ранее 11). У существующих предметов будет изменён уровень требования.
+- Модификатор Accuracy "Precise" на Weapons теперь имеет минимальный уровень 8 (ранее 1). У существующих предметов будет изменён уровень требования.
+- Модификатор Accuracy "Reliable" на Weapons теперь имеет минимальный уровень 13 (ранее 11). У существующих предметов будет изменён уровень требования.
+- Базовый тип шлема "Gladiatoral" переименован в Cassis Helm.
+- Oswald больше не занижает цену за Priceless Idols, найденные в Act 3, теперь предлагая 3,000, 4,000 и 6,000 Gold за каждый (ранее 500, 1,000 и 1,500).
+- Цена Weapons в Gold для асинхронной торговли увеличена примерно на 50%
+- Desecrated Map Modifier "of Union" больше не функционален. Это был унаследованный модификатор, существовавший только в лигах Early Access.
+[Вернуться к началу](#top)
