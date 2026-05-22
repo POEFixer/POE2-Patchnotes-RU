@@ -35,9 +35,14 @@
 | 24 | Изменения микротранзакций | [ru/24-microtransaction-changes.md](./ru/24-microtransaction-changes.md) |
 | 25 | Исправлено (bug fixes) | [ru/25-bug-fixes.md](./ru/25-bug-fixes.md) |
 
-## Оригинал
+## Полный текст одним файлом
 
-Английский исходник полностью: [original/full.md](./original/full.md). Поразделные исходники (для проверки построчно): [original/](./original/).
+- Русский перевод целиком: [ru/full.md](./ru/full.md)
+- Английский оригинал целиком: [original/full.md](./original/full.md)
+
+## Оригинал по разделам
+
+Поразделные исходники (для проверки построчно): [original/](./original/).
 
 ## Метаданные
 
